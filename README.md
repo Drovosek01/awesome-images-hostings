@@ -43,12 +43,19 @@ https://geekflare.com/best-image-hosting/
 - оплата за просмотры
 - оставляет файлы не тронутыми (не сжимает их если файлы большого размера и т.д.)
 
+Ссылки | Анонимное использование | Мультизагрузка | Загрузка из буфера обмена | Загрузка Drag & Drop | Загрузка по ссылке | Загрузка файлов из архива | Дллительность хранения файлов (анон/авторизованный) | Максимальный размер файла | Максимальное разрешение картинки | Автоматическое изменение размера | Наличие английского интерфейса | Сокращенная ссылка на картинку | Разрешенные форматы картинок | Автоматическое конвертирование | Не изменяет картинки | Картинка-предпросмотр | Добавление надписи на предпросмотр | Настройка размера предпросмотра | Коды для встраивания | Информация о загруженном (количество просмотров, дата загрузки, оригинальное название, размер файла в МБ, размер файла в px, никнейм автора) | Просмотр всех фотографий сервиса | Поиск | Просмотр тематик | Просмотр фото других аккантов | Комментирование | Лайки | Описание картинки | Удаление файлов | Редактирование файлов | Загрузка файлов | Создание альбомов | API | Дополнительные особенности |Материалы для взрослых |
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+http://imgur.com/ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+https://imgbox.com/ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+https://postimages.org/ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+https://imgbb.com/ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+https://fastpic.ru/ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+https://imageban.ru/ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+
 Сервисы:
 
-- http://imgur.com/
 - https://pasteall.org/pic/
-- https://fastpic.ru/
-- https://imageban.ru/
 - https://www.imagebam.com/
 - https://photobucket.com/
 - https://imageshack.com/
@@ -61,14 +68,11 @@ https://geekflare.com/best-image-hosting/
 - https://itrash.ru/
 - https://pixabay.com/
 - https://500px.com/
-- https://imgbox.com/
-- https://postimages.org/ | https://postimages.io/
-- https://imgbb.com/
 - https://www.imagevenue.com/
 - https://pasteboard.co/
 - https://pastenow.ru/
 - https://cubeupload.com/
-- https://linkpicture.com/en/?set=en
+- https://linkpicture.com/en/
 - https://beeimg.com/
 - https://oshi.at/
 - https://kek.gg/
@@ -76,14 +80,12 @@ https://geekflare.com/best-image-hosting/
 - https://imgdew.com/
 - https://imguh.com/
 - https://imgrock.net/
-- https://8upload.com/
 - https://www.tryimg.com/
 - https://www.imageno.com/
 - https://www.picallow.com/
 - https://thumbsnap.com/
 - https://imgpile.com/
 - https://imagesharing.com/
-- https://www.anonmgur.com/
 - https://www.hostpic.org/
 - https://vgy.me/
 - https://gifyu.com/
@@ -163,6 +165,7 @@ https://geekflare.com/best-image-hosting/
 - https://imgsrc.ru/
 - https://www.picofile.com/
 - https://servimg.com/
+- https://www.anonmgur.com/
 -
 - Эти недоступны из РФ:
 - https://bayimg.com/
@@ -173,6 +176,7 @@ https://geekflare.com/best-image-hosting/
 - https://imagetwist.com/
 - https://www.zupimages.net/
 - https://pimpandhost.com/
+- https://8upload.com/
 -
 - https://www.amazon.co.uk/b?ie=UTF8&node=12153286031
 - https://www.dropbox.com/
@@ -190,7 +194,8 @@ https://geekflare.com/best-image-hosting/
 - https://www.img.vision/
 - https://gifer.com/
 -
-- Это в основном для публикаций фотографий:
+- Это в основном для публикаций фотографий:.
+- https://www.pinterest.ru/
 - https://www.deviantart.com/
 - https://www.flickr.com/
 - https://www.pexels.com/ru-ru/
@@ -202,7 +207,7 @@ https://geekflare.com/best-image-hosting/
 - https://lensdump.com/
 - https://www.123rf.com/
 - https://shoottheframe.com/
-- https://ru.freepik.com/
+- https://freepik.com/
 - https://stock.adobe.com/
 - https://www.vecteezy.com/
 - https://www.dreamstime.com/
@@ -227,6 +232,14 @@ https://geekflare.com/best-image-hosting/
 -
 - Приложения для создания скриншотов + сервисы для их публикации:
 - https://monosnap.com/
+- https://app.prntscr.com/
+- https://joxi.ru/
+- https://disk.yandex.kz/promo/download
+- https://help.dropbox.com/installs-integrations/photos/screenshots
+-
+- Альтернативные сервисы
+- https://vk.com/
+- https://www.reddit.com/
 
 ## Правила добавления сервисов в список
 
