@@ -1,6 +1,6 @@
 # Список хостингов картинок
 
-Язык: Русский | Английский
+Язык: Русский | [Английский](README.md)
 
 ## Содержание
 
@@ -280,10 +280,12 @@ https://picclick.ru/, https://picforall.ru/ |
 - https://vk.com/
 - https://www.reddit.com/
 - https://github.com/
+- https://stackoverflow.com/
 - https://imgsli.com/
 - https://discord.com/
 - https://www.instagram.com/
 - https://zen.yandex.ru/
+- https://qna.habr.com/
 - https://www.tumblr.com/
 
 ### CDN сервисы для картинок

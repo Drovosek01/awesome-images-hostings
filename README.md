@@ -280,10 +280,12 @@ These services do not have the usual image hosting interface, so a comparison ta
 - https://vk.com/
 - https://www.reddit.com/
 - https://github.com/
+- https://stackoverflow.com/
 - https://imgsli.com/
 - https://discord.com/
 - https://www.instagram.com/
 - https://zen.yandex.ru/
+- https://qna.habr.com/
 - https://www.tumblr.com/
 
 ### CDN services for images
