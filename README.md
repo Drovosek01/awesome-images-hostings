@@ -1,76 +1,76 @@
-# Список хостингов картинок
+# List of image hosting
 
-Язык: Русский | Английский
+Language: [Русский](README_RU.md) | English
 
-## Содержание
+## Content
 
-- Что это за репозиторий
-- Что такое хостинг картинок
+- What kind of repository is this
+- What is image hosting
 - FAQ
-- Списки сервисов и таблицы сравнения
-  - Основные хостинги картинок
-  - Сервисы доступные только по http
-  - Облачные диски в том числе для фото
-  - Сервисы для фотографий
-  - Сервисы для анимированных картинок
-  - Сервисы доступные не во всех странах
-  - Приложения для создания скриншотов
-  - Альтернативные сервисы
-  - CDN сервисы для картинок
-- Объяснение заголовков в таблице
-- Правила добавления сервисов в список
-- Мертвые сервисы
+- Lists of services and comparison tables
+  - Main image hosting
+  - Services available only via http
+  - Cloud drives, including for photos
+  - Photo services
+  - Services for animated images
+  - Services not available in all countries
+  - Screenshot applications
+  - Alternative services
+  - CDN services for images
+- Explanation of the headings in the table
+- Rules for adding services to the list
+- Dead services
 - TODO
-- Отдельное спасибо
+- Special thanks
 
-## Что это за репозиторий
+## What kind of repository is this
 
-Этот репозиторий - это список сервисов на которых вы можете публиковать картинки и делиться ими в интернете. Сервисы представлены в сравнительной таблице и разделены по категориям.
+This repository is a list of services where you can publish pictures and share them on the Internet. The services are presented in a comparative table and are divided into categories.
 
-Подробнее о концепции "Awesome" списков можно почитать [здесь](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
+You can read more about the concept of "Awesome" lists [here](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 
-> К сожалению я не всегда могу найти время, чтобы заполнить сравнительную таблицу. Если у вас есть возможность улучшить репозиторий (исправить ошибки в тексте или заполнить пункты в сравнительной таблице или что-нибудь еще) - сделайте это и создайте Pull Request
+> Unfortunately, I can't always find the time to fill out a comparison table. If you have an opportunity to improve the repository (correct errors in the text or fill in items in the comparison table or something else) - do it and create a Pull Request
 
 ---
 
-### Что такое хостинг картинок
+### What is image hosting?
 
-Хостинг картинок - это сервис, предоставляющий возможность загрузить и хранить картинки, ссылкой на которые вы можете потом делиться.
+Image hosting is a service that provides an opportunity to upload and store images, a link to which you can then share.
 
-Хостингов картинок на данный момент существует огромное количество, с разным функционалом и, у некоторых, отличительными особенностями. Все это будет рассмотрено ниже.
+There are a huge number of image hosting services at the moment, with different functionality and, for some, distinctive features. All this will be discussed below.
 
-Для тех, кто мало пользуется разными интернет-ресурсами объясняю: помимо привычных социальных сетей, обмен картинками в которых является простой интуитивной вещью, в интернете существует немалое количество ресурсов (я думаю это, в основном, форумы) в которых, по определенным причинам, не реализована функция загрузки картинок (например для того, чтобы меньше нагружать сам сервис). И для того чтобы на таких ресурсах делиться изображениями, вам нужно загрузить картинки на хостинги картинок, взять от туда ссылку на картинку (желательно прямую ссылку) и потом вставить в сообщение на необходимом сервисе.
+For those who do not use many different Internet resources, I explain: in addition to the usual social networks, the exchange of pictures in which is a simple intuitive thing, there are a considerable number of resources on the Internet (I think these are mainly forums) in which, for certain reasons, the function of uploading pictures is not implemented (for example, in order to load the service itself less). And in order to share images on such resources, you need to upload images to image hosting sites, take a link to the image from there (preferably a direct link) and then paste it into a message on the necessary service.
 
 ## FAQ
 
-Ответы на предсказуемые вопросы.
+Answers to predictable questions.
 
-- Почему информация в репозитории только на 2х языков? (английский будет позже)
-  - Потому что мой родной язык - русский и мне удобнее формулировать мысли на родном языке. После этого я использую онлайн переводчики для перевода с русского на английский. Если у вас есть желание и возможность - сделайте полный перевод на другой язык и создайте Pull Request
+- Why is the information in the repository only in 2 languages? (English will be later)
+  - Because my native language is Russian and it is more convenient for me to formulate thoughts in my native language. After that, I use online translators to translate from Russian to English. If you have the desire and the opportunity - make a full translation into another language and create a Pull Request
 
-- Будет ли перевод на другие языки?
-  - Я не планирую делать перевод на другие языки. Если кто-нибудь сделает полный перевод файлов на другой язык и создаст Pull-Request - я добавлю этот перевод, но не смогу его поддерживать (добавлять новую информацию, если это не просто галки в таблице)
+- Will there be a translation into other languages?
+  - I do not plan to translate into other languages. If someone makes a complete translation of files into another language and creates a Pull-Request, I will add this translation, but I will not be able to support it (add new information if it is not just a jackdaw in the table)
 
-- По какому принципу сервисы попадают в этот список/таблицу?
-  - Все просто. Если сервис предназначен для хранения картинок или в него можно загружать картинки, которые долго хранятся и можно получить прямую ссылку на них - мы его добавляем в таблицу с соответствующей категорией и стараемся узнать о свойствах сервиса заполняя пункты в сравнительной таблице.
+- By what principle do services get into this list/table?
+  - It's simple. If the service is designed to store images or you can upload images that are stored for a long time and you can get a direct link to them - we add it to the table with the appropriate category and try to find out about the properties of the service by filling in the items in the comparison table.
 
-## Хостинг картинок vs Хостинг фотографий
+## Image Hosting vs Photo Hosting
 
-// TODO: Думаю между просто хостингом любых картинок и хостингом ориентированным на фотографии есть разница, но я пока что не изучал эту грань. Когда у меня будет время я это исследую и напишу тут (и тогда пометка TODO пропадет), а пока что предлагаю прочитать об этом по ссылке ниже
+// TODO: I think there is a difference between just hosting any pictures and hosting focused on photos, but I haven't studied this facet yet. When I have time, I will investigate this and write here (and then the TODO mark will disappear), but for now I suggest reading about it at the link below
 
 https://geekflare.com/best-image-hosting/
 
-## Списки сервисов и таблицы сравнения
+## Service lists and comparison tables
 
-Ниже собраны все известные мне сервисы, на которые можно загружать картинки и делиться ими. В заголовки сравнительных таблиц я постарался добавить только самые важные критерии сравнения. Если сервис обладает какой-то редкой особенностью, то информация о ней скорее всего будет в столбце "Дополнительная информация".
+Below are all the services known to me, to which you can upload pictures and share them. I have tried to add only the most important comparison criteria to the headings of the comparison tables. If the service has some rare feature, then the information about it will most likely be in the "Additional information" column.
 
-Я постарался сократить заголовки столбцов до минимума так, чтобы они не потеряли смысла. Подробнее о значении заголовка, о том какая информация находится в каждом столбце рассказано ниже в пункте "Объяснение заголовков в таблице".
+I have tried to reduce the column headers to a minimum so that they do not lose their meaning. For more information about the meaning of the header, about what information is in each column, see the section "Explanation of the headers in the table" below.
 
-Некоторые сервисы я разделил на разные группы, хотя можно было сделать одну большую таблицу и вместо групп - просто добавить отдельный столбец в таблице, но я решил, что разделение на группы будет нагляднее, потому что таблица получилась и так слишком большая.
+I divided some services into different groups, although it was possible to make one large table and instead of groups, just add a separate column in the table, but I decided that the division into groups would be clearer, because the table turned out to be too big already.
 
-### Основные хостинги картинок
+### Main image hosting
 
-Ссылки | Анонимное использование | Мультизагрузка | Из буфера обмена | Drag & Drop | По ссылке | Из архива | Длительность хранения файлов (анон/авториз.) | Максимальный размер картинки (МБ) (анон/авториз.) | Максимальное разрешение картинки (px) | Автоматическое изменение разрешения | Наличие английского интерфейса | Сокращенная ссылка на страницу с картинкой | Разрешенные форматы картинок | Автоматическое конвертирование | Картинка-предпросмотр | Добавление надписи на предпросмотр | Настройка размера предпросмотра | Коды для встраивания | Информация о загруженном | Просмотр всех фотографий сервиса | Поиск | Просмотр тематик | Просмотр фото других аккаунтов | Комментирование | Лайки | Описание картинки | Удаление файлов | Редактирование файлов | Создание альбомов | API | Материалы для взрослых | Дополнительная информация
+Links | Anonymous using | Multiuploading | From clipboard | Drag & Drop | Remote uploading | From the archive | Duration of file store (anon/authorization) | Maximum image size (MB) (anon/authorization) | Maximum image resolution (px) | Automatic resolution change | English interface | Abbreviated link to the page with the picture | Allowed image formats | Automatic convertation | Preview image | Adding an inscription to the preview | Setting the preview size | Embed codes | Information about uploaded | Viewing all photos service | Search | Viewing topics | Viewing photos of other accounts | Commenting | Likes | Picture description | Deleting files | Editing files | Creating albums | API | Adult materials | Additional information
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 http://imgur.com/ | + | + | + | + | + | - | Unlimited? | 20/5 | Unlimited? | + | + | + | JPEG, PNG, GIF, APNG, TIFF, GIF and video | PNG->JPG* | + | - | - | + | + | + | + | + |  | + | + | + | + | + | -? | + | - | [- API Info](https://api.imgur.com/)<br>[- API Docs](https://apidocs.imgur.com/)<br>[- Full supported fil types and size limits](https://apidocs.imgur.com/)<br>- максимальный размер PNG = 5 MB<br>- Информацию о имени оригинального файла можно получить на нажав на картинку в аккаунте<br>- Ссылки на предпросмотр можно найти нажав на картинку в аккаунте<br>- Ссылки на предпросмотр можно сделать добавив эти символы в прямой ссылке перед расширением `s`/`b`/`t`/`m`/`l`/`h`| 
 https://imageban.ru/ | + | + | + | + | + | + | 365 | 10 | Unlimited? | - | + | + | JPG, JPEG, PNG, GIF, WEBP, BMP | ? | + | + | + | + | + | - | - | + | - | - | - | + | + | + | + | + | ? | [- API Info](https://imageban.ru/api) | 
@@ -182,9 +182,9 @@ https://bayimg.com/ |
 https://imgsrc.ru/ |
 https://picclick.ru/, https://picforall.ru/ |
 
-### Сервисы доступные только по http
+### Services available only via http
 
-Ниже расположены список сервисов, которые не работают по SSL, то есть не открываются через https.
+Below is a list of services that do not work over SSL, that is, they do not open via https.
 
 - http://vfl.ru/
 - http://saveimg.ru/
@@ -202,9 +202,9 @@ https://picclick.ru/, https://picforall.ru/ |
 - http://picoolio.net/
 - http://imgclick.net/
 
-### Облачные диски в том числе для фото
+### Cloud drives, including for photos
 
-Ниже расположен список сервисов, которые в основном предоставляют услуги облачных хранилищ, но также можно получать прямые ссылки на картинки загруженные в аккаунт на облачном диске
+Below is a list of services that mainly provide cloud storage services, but you can also get direct links to images uploaded to your account on a cloud disk
 
 - https://www.amazon.co.uk/b?ie=UTF8&node=12153286031
 - https://www.dropbox.com/
@@ -219,9 +219,9 @@ https://picclick.ru/, https://picforall.ru/ |
 - https://disk.yandex.ru/
 - https://www.4shared.com/
 
-### Сервисы для фотографий
+### Photo Services
 
-Ниже расположен список сервисов, которые ориентированы на работу не с любыми картинками, а, в основном с фотографиями.
+Below is a list of services that are focused on working not with any pictures, but mainly with photos.
 
 - https://www.pinterest.ru/
 - https://www.deviantart.com/
@@ -241,26 +241,26 @@ https://picclick.ru/, https://picforall.ru/ |
 - https://www.dreamstime.com/
 - https://focastock.com/
 
-### Сервисы для анимированных картинок
+### Services for animated images
 
-Ниже расположен список сервисов, которые ориентированы на сохранение и распространение анимированных картинок, таких как GIF и другие.
+Below is a list of services that focus on saving and distributing animated images, such as GIFs and others.
 
 - https://gifer.com/
 - https://tenor.com/
 - https://giphy.com/
 - https://gfycat.com/
 
-### Сервисы доступные не во всех странах
+### Services not available in all countries
 
-В этом разделе расположены сервисы, которые открываются не из всех стран. Лучше не использовать эти сервисы, поэтому сравнительной таблицы для них не будет.
+This section contains services that are not opened from all countries. It is better not to use these services, so there will be no comparison table for them.
 
 - https://imageupload.io/
 - https://imagetwist.com/
 - https://8upload.com/
 
-### Приложения для создания скриншотов
+### Applications for creating screenshots
 
-Ниже расположен список сервисов, которые вместе с приложениями для создания скриншотов также предоставляют сервис хранения/публикации скриншотов и получения прямых ссылок на них.
+Below is a list of services that, along with screenshot creation applications, also provide a service for storing/publishing screenshots and getting direct links to them.
 
 - https://monosnap.com/
 - https://app.prntscr.com/
@@ -268,11 +268,11 @@ https://picclick.ru/, https://picforall.ru/ |
 - https://disk.yandex.kz/promo/download
 - https://help.dropbox.com/installs-integrations/photos/screenshots
 
-### Альтернативные сервисы
+### Alternative services
 
-Ниже расположен список сервисов, которые не позиционируют себя как хостинг картинок, но в этих сервисах можно загружать, хрантть и получать прямые ссылки на картинки.
+Below is a list of services that do not position themselves as image hosting, but in these services you can upload, store and receive direct links to images.
 
-Эти сервисы не имею привычного для хостингов картинок интерфейса, поэтому сравнительная таблица для них, наверное, будет лишняя. Для каждого такого сервиса будет добавлено отедльное описание с информацией имеющей отношение к тематике репозитория.
+These services do not have the usual image hosting interface, so a comparison table for them will probably be superfluous. For each such service, a separate description will be added with information related to the repository topic.
 
 - https://vk.com/
 - https://www.reddit.com/
@@ -283,92 +283,92 @@ https://picclick.ru/, https://picforall.ru/ |
 - https://zen.yandex.ru/
 - https://www.tumblr.com/
 
-### CDN сервисы для картинок
+### CDN services for images
 
-Ниже расположен список сервисов, которые позиционируют себя как CDN только для картинок и предоставляют соответствующие услуги.
+Below is a list of services that position themselves as a CDN for images only and provide relevant services.
 
 - https://www.img.vision/
 - https://imgix.com/
 - https://imageboss.me/
 
-## Объяснение заголовков в таблице
+## Explanation of the headers in the table
 
-В заголовки сложно уместить подробную информацию о том, какая информация отображается в столбце, поэтому подробная информация о каждом заголовке из сравнительной таблице будет в этом разделе.
+It is difficult to fit detailed information about what information is displayed in the column into the headers, so detailed information about each header from the comparison table will be in this section.
 
-Я постарался сформулировать заголовки так, чтобы ответ "да" в столбце означал что-то положительное о сервисе. Вместо простого ответа `Да` или `Нет` конечно удобнее и целесообразнее проставлять `+` или `-`.
+I tried to formulate the headings so that the answer "yes" in the column meant something positive about the service. Instead of a simple answer `Yes` or `No`, of course it is more convenient and expedient to put `+` or `-`.
 
-1. Ссылки - ссылки на сервис. Если ресурс имеет несколько зеркальных доменов, то нужно указать их через запятую `,`. Ссылки на сервисы сокращения ссылок, которые ведут к просмотру картинки, в этом столбце указывать не надо.
-2. Анонимное использование - возможно ли использовать сервис без регистрации в нем. Конечно при анонимном использовании речь идет только про основной функционал - загрузка картинок различными способами.
-3. Мультизагрузка - возможно ли загружать на сервис несколько файлов одновременно. Если сервис предоставляет информацию о количестве максимально одновременно загружаемых файлов - указать цифру.
-4. Из буфера обмена - возможна ли загрузка картинки, скопированной в буфер обмена.
-5. Drag & Drop - возможна ли загрузка перетаскиванием картинки из какой-либо директории компьютера на страницу (или определенную область) сервиса.
-6. По ссылке - возможна ли загрузка картинки указав прямую ссылку на нее.
-7. Из архива - возможна ли загрузка нескольких картинок в виде архива (чтобы сервис сам его распаковал и сделал так, как-будто все картинки из архива загружены по отдельности).
-8. Длительность хранения файлов (анон/авторизованный) - срок хранения картинки (стандартно в днях) для авторизованных и не авторизованных пользователей через слэш `/`.
-9. Максимальный размер картинки (МБ) - максимальный размер картинки в мегабайтах, который можно хранить на сервисе.
-10. Максимальное разрешение картинки - максимальный размер картинки в пикселях, который можно загрузить на сервис.
-11. Автоматическое изменение разрешения - уменьшает ли сервис картинку автоматически, если она превышает максимально допустимый размер картинки в пикселях (конечно, если есть ограничение на максимальный размер картинки в пикселях).
-12. Наличие английского интерфейса - информация о том, есть ли на сервисе интерфейс на английском языке.
-13. Сокращенная ссылка на картинку - информация о том, возможно ли сгенерировать короткую ссылку на страницу с просмотром картинки.
-14. Разрешенные форматы картинок - информация о том, картинки с какими расширениями разрешено загружать на сервис. Разделитель - запятая `,`.
-15. Автоматическое конвертирование - информация о том, из какого в какой формат сервис конвертирует картинку при загрузке.
-16. Картинка-предпросмотр - информация о том, может ли генерировать сервис картинку-миниатуру загруженной картинке.
-17. Добавление надписи на предпросмотр - информация о том, можно ли добавлять какой-то текст на генерируемую миниатюру.
-18. Настройка размера предпросмотра - информация о том, можно ли менять размер в пикселях для генерируемой миниатюры.
-19. Коды для встраивания - информация о том, генерирует ли сервис код для встраивания картинки в HTML или другие языки разметки. Обычно эти коды доступны на странице сразу после успешной загрузки картинки или на странице просмотра картинки. Разные сервисы генерируют разные коды (миниатюра с ссылкой на страницу просмотра полной версии или полная версия с ссылкой на домашнюю страницу сервиса и т.д.) этих вариантов не сильно много и по хорошему в этом столбце лучше указывать какие виды кодов встраивания предоставляет сервис, но пока что у меня нет возможности учесть все варианты и будет указано просто наличие того, генерируются ли хоть какие-нибудь коды для встраивания картинки.
-20. Информация о загруженном - информация о том, есть ли на странице просмотра картинке информация о ней. Например имя загруженного файла, дата загрузки, размер в пискселях, размер в мегабайтах или килобайтах, количество просмотров, никнейм того, кто загрузил и т.д. 
-21. Просмотр всех фотографий сервиса - информация о том, возможно ли на сервисе просмотреть все фотографии, которые загружены на сервис.
-22. Поиск - информация о том, есть ли на сервисе поиск по фотографиям (обычно это поиск исключительно по названиям загруженных картинок).
-23. Просмотр тематик - информация о том, есть ли на сервисе какие-либо рубрики на которые разграничиваются картинки и можно ли посмотреть все картинки в какой-либо отдельной рубрике.
-24. Просмотр фото других аккуантов - информация о том, можно ли перейти в чей-то профиль на сервисе и просмотреть фотографии этого профиля (конечно при условии, что на сервисе есть регистрация).
-25. Комментирование - информация о том, можно ли оставить комментарий на странице с просмотром картинки на сервисе.
-26. Лайки - информация о том, можно ли лайкнуть картинку на странице с просмотром картинки на сервисе.
-27. Описание картинки - информация о том, можно ли добавить какой-либо текст (описание) к загруженной картинке (обычно добавленный текст отображается на странице с просмотром картинки на сервисе).
-28. Удаление файлов - информация о том, можно ли удалять загруженные картинки с сервиса.
-29. Редактирование файлов - информация о том, можно ли редактировать загруженную картинку и данные, добавленные с ее загрузкой (название картинки, описание к ней и т.д.).
-30. Создание альбомов - информация о том, возможно ли объединять несколько картинок в один альбом (и, желательно, делиться ссылкой на этот альбом).
-31. API - информация о том, предоставляет ли сервис какое либо API.
-32. Материалы для взрослых - информация о том, разрешено ли (и, соответственно, присутствуют ли) на сервисе картинки порнографического характера.
-33. Дополнительная информация - информация об особенностях сервиса, не подпадающих ни под какой-либо из выше перечисленных критериев.
+1. Links - links to the service. If the resource has several mirror domains, then you need to specify them separated by commas `,`. Links to link shortening services that lead to viewing the image do not need to be specified in this column.
+2. Anonymous use - is it possible to use the service without registering in it. Of course, with anonymous use, we are talking only about the main functionality - uploading images in various ways.
+3. Multi-upload - is it possible to upload multiple files to the service at the same time. If the service provides information about the maximum number of simultaneously downloaded files, specify a number.
+4. From the clipboard - is it possible to download an image copied to the clipboard.
+5. Drag & Drop - is it possible to download by dragging an image from a computer directory to a page (or a specific area) service.
+6. By link - is it possible to upload an image by specifying a direct link to it.
+7. From the archive - is it possible to download several images in the form of an archive (so that the service unpacks it itself and makes it look as if all the images from the archive are downloaded separately).
+8. File storage duration (anon/authorized) - the storage period of the image (standard in days) for authorized and non-authorized users via the slash `/`.
+9. Maximum image size (MB) - the maximum image size in megabytes that can be stored on the service.
+10. Maximum image resolution - the maximum image size in pixels that can be uploaded to the service.
+11. Automatic resolution change - does the service automatically reduce the image if it exceeds the maximum allowed image size in pixels (of course, if there is a limit on the maximum image size in pixels).
+12. Availability of the English interface - information about whether the service has an interface in English.
+13. Abbreviated link to the image - information about whether it is possible to generate a short link to the page with the image view.
+14. Allowed image formats - information about which images with which extensions are allowed to be uploaded to the service. The separator is a comma `,`.
+15. Automatic conversion - information about which format the service converts the image from when downloading.
+16. Preview image - information about whether the service can generate a thumbnail image of the uploaded image.
+17. Adding an inscription to the preview - information about whether it is possible to add some text to the generated thumbnail.
+18. Setting the preview size - information about whether it is possible to change the size in pixels for the generated thumbnail.
+19. Embed codes - information about whether the service generates code for embedding images in HTML or other markup languages. Usually these codes are available on the page immediately after the image has been successfully uploaded or on the image viewing page. Different services generate different codes (a thumbnail with a link to the full version viewing page or the full version with a link to the service's homepage, etc.) there are not many of these options, and in a good way it is better to indicate in this column what types of embed codes the service provides, but so far I have no way to take into account all the options and it will be indicated simply the presence of whether any codes are generated for embedding the image.
+20. Information about uploaded - information about whether there is information about the image on the viewing page. For example, the name of the uploaded file, the upload date, the size in pixels, the size in megabytes or kilobytes, the number of views, the nickname of the one who uploaded, etc. 
+21. Viewing all photos of the service - information about whether it is possible to view all photos uploaded to the service on the service.
+22. Search - information about whether there is a photo search on the service (usually it is a search exclusively by the names of uploaded images).
+23. Viewing topics - information about whether there are any categories on the service that pictures are divided into and whether it is possible to view all the pictures in any separate category.
+24. Viewing photos of other accounts - information about whether it is possible to go to someone's profile on the service and view photos of this profile (of course, provided that there is registration on the service).
+25. Commenting - information about whether it is possible to leave a comment on the page with the image viewing on the service.
+26. Likes - information about whether it is possible to like a picture on a page with a picture view on the service.
+27. Image description - information about whether it is possible to add any text (description) to the uploaded image (usually the added text is displayed on the page with the image viewing on the service).
+28. File Deletion - information about whether uploaded images can be deleted from the service.
+29. File editing - information about whether it is possible to edit the uploaded image and the data added with its upload (the name of the image, the description to it, etc.).
+30. Creating albums - information about whether it is possible to combine several images into one album (and, preferably, share a link to this album).
+31. API - information about whether the service provides any API.
+32. Adult materials - information about whether pornographic images are allowed (and, accordingly, whether they are present) on the service.
+33. Additional information - information about the features of the service that do not fall under any of the above criteria.
 
-## Правила добавления сервисов в список
+## Rules for adding services to the list
 
-- Сервисы не предоставляющие возможность использования без регистрации должны идти в конце списка
-- Сервисы не предоставляющие бесплатных услуг должны идти в конце списка
-- Сервисы без интерфейса на английском языке должны идти в конце списка
-- Сервисы без явного источника заработка должны идти в конце списка
-- При добавлении даты с месяцем указывайте месяц в виде строки, потому что в разных странах разные форматы числовых дат. Пример - 10 апреля 2022
-- Сервисы без SSL (без https) должны идти в конце списка
-- Сервисы для публикации только определенного типа картинок должны идти в конце списка
-- При наличии у сервиса несколько доменов - указывать их в одной ячейке через запятую `,`
+- Services that do not provide the possibility of using without registration should go to the end of the list
+- Services that do not provide free services should go to the end of the list
+- Services without an interface in English should go to the end of the list
+- Services without an explicit source of earnings should go to the end of the list
+- When adding a date with a month, specify the month as a string, because different countries have different formats of numeric dates. Example - April 10, 2022
+- Services without SSL (without https) should go to the end of the list
+- Services for publishing only a certain type of images should go to the end of the list
+- If the service has several domains - specify them in one cell separated by commas `,`
 
-## Мертвые сервисы
+## Dead services
 
-Это сервисы которые прекратили свою работу. Просто оставим их здесь для истории.
+These are services that have stopped working. Just leave them here for the story.
 
-Подробнее о них вы можете узнать в [соседнем файле](Dead_services_RU.md)
+You can find out more about them in [adjacent file](Dead_services_RU.md)
 
 ## TODO
 
-Список того, что нужно сделать в данном репозитории.
+A list of what needs to be done in this repository.
 
-- [ ] Провести сравнение абсолютно всех сервисов
-  - [ ] Сделать сравнение основных хостингов картинок
-  - [ ] Сделать сравнение сервисов, работающих без SSL
-  - [ ] Сделать сравнение облачных хранилищ
-  - [ ] Сделать сравнение сервисов для фотографий
-  - [ ] Сделать сравнение сервисов для анимированных картинок
-  - [ ] Сделать сравнение сервисов для создания скриншотов
-  - [ ] Сделать сравнение CDN
-- [ ] Добавить описание к альтернативным сервисам
-- [ ] Добавить информацию о разнице хостингов картинок и хостингов фотографий
-- [ ] Создать и оформить страницу github pages
-  - [ ] Сделать таблицы сортируемыми
-- [ ] Добавить список стоков картинок и фото
+- [ ] To compare absolutely all services
+  - [ ] To make a comparison of the main image hosting
+  - [ ] To make a comparison of services that work without SSL
+  - [ ] Make a comparison of cloud storage
+  - [ ] Make a comparison of services for photos
+  - [ ] To make a comparison of services for animated images
+  - [ ] Make a comparison of services for creating screenshots
+  - [ ] Make a CDN comparison
+- [ ] Add a description to alternative services
+- [ ] Add information about the difference between image hosting and photo hosting
+- [ ] Create and design a github pages page
+  - [ ] Make tables sortable
+- [ ] Add a list of stock images and photos
 
-## Отдельное спасибо
+## Special thanks
 
-В интернете есть много блогов в которых приведено сравнение разных сервисов хранения картинок, но я хочу отметить данные сайты, потому что в них собрана наиболее обширная информация о разных хостингах картинок и некоторая информация была позаимствована с этих сайтов:
+There are many blogs on the Internet that compare different image storage services, but I want to mention these sites because they contain the most extensive information about different image hosting services and some information was borrowed from these sites:
 
 - https://www.findimagehost.com/image-hosting-all.php
 - https://alternativeto.net/software/imgur/
