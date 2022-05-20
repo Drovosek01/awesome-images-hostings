@@ -53,172 +53,134 @@ https://fastpic.ru/, https://fastpic.org/, https://new.fastpic.org/ | + | + | + 
 https://imgbb.com/ | + | + | + | + | + | - | Unlimited? | 32 | ? | ? | + | + | JPG, PNG, BMP, GIF, TIFF, WEBP, HEIC, PDF | ? | + | - | - | + | - | - | - | - | - | - | + | + | + | + | + | + | - | [- API Info](https://api.imgbb.com/)<br>- Ссылки на предпросмотр можно получить только вручную из кодов встраивания | 
 https://postimages.org/ | + | + | + | + | + | - | Unlimited? | 24 | 1280 |  | + | + | PNG, JPG and ? | + | + | - | - | + | + | + | - | - | - | - | - | - | + | - | + | - | -? | - Ссылку на предпросмотр можно получить только вручную из кодов встраивания<br>- Ссылка на предпросмотр такая же как обычная прямая ссылка | 
 https://imgbox.com/ | + | + | + | + | - | - | Unlimited | 10 | Unlimited? | -? | + | - | JPG, PNG, GIF | - | + | - | + | + | - | - | - | - | - | + | - | - | + | - | + | - | + | - ссылку на предпросмотр можно также получить заменив `images2` на `thumbs2` и `_t` на `_o`<br>- предпросмотр может быть только квадратным |
+https://pasteall.org/pic/ |
+https://www.imagebam.com/ |
+https://photobucket.com/ |
+https://imageshack.com/ |
+https://hostingkartinok.com/ |
+https://simplest-image-hosting.net/ |
+https://freeimagehosting.net/ |
+https://www.fotki.com/us/en/ |
+https://www.turboimagehost.com/ |
+https://img-host.ru/ |
+https://itrash.ru/ |
+https://pixabay.com/ |
+https://500px.com/ |
+https://www.imagevenue.com/ |
+https://pasteboard.co/ |
+https://pastenow.ru/ |
+https://cubeupload.com/ |
+https://linkpicture.com/en/ |
+https://beeimg.com/ |
+https://oshi.at/ |
+https://kek.gg/ |
+https://www.imagecoast.com/ |
+https://imgdew.com/ |
+https://imguh.com/ |
+https://imghut.com/ |
+https://imgrock.net/ |
+https://www.tryimg.com/ |
+https://www.imageno.com/ |
+https://www.picallow.com/ |
+https://thumbsnap.com/ |
+https://imgpile.com/ |
+https://imagesharing.com/ |
+https://www.hostpic.org/ |
+https://vgy.me/ |
+https://gifyu.com/ |
+https://www.imageupload.net/ |
+https://jpegbay.com/ |
+https://bbcode0.com/ |
+https://qpic.ws/ |
+https://kepkuldes.com/ |
+https://lookimg.com/ |
+https://www.imageupload.net/ |
+https://gifok.net/ |
+https://www.cweb-pix.com/ |
+https://im.ge/ |
+https://webhotpix.com/ |
+https://photouploads.com/ |
+https://tinypix.top/ |
+https://nickpic.host/ |
+https://imagem.app/ |
+https://picuza.com/ |
+https://imgbb.su/ |
+https://www.imgup.cz/ |
+https://freeimage.host/ |
+https://tinyimg.io/ |
+https://geekpic.net/ |
+https://imagecurl.com/ |
+https://im.ge/ |
+https://boring.host/ |
+https://img.onl/ |
+https://putstuffonline.com/ |
+https://folio.ink/ |
+https://www.uploadhouse.com/ |
+https://www.imgspice.com/ |
+https://www.yogile.com/ |
+https://imgi.wall-spot.com/ |
+https://picr.de/ |
+https://imagebin.ca/ |
+https://www.image123.net/ |
+https://pixady.com/ |
+https://unsee.cc/ |
+https://www.hebergeur-image.com/ |
+https://imgup.ru/ |
+https://pikky.net/ |
+https://i.mcgl.ru/ |
+https://www.hizliresim.com/ |
+https://abload.de/ |
+https://gif-pictures.ru/ |
+https://gif-animated.ru/ |
+https://ipic.su/ |
+https://imageup.ru/ |
+https://bbpic.ru/ |
+https://pic.maxiol.com/ |
+https://picbit.net/ |
+https://uploaddeimagens.com.br/ |
+https://imgtaxi.com/ |
+https://imgaa.com/ |
+https://www.noelshack.com/ |
+https://svgur.com/ |
+https://pixhost.to/ |
+https://imageflea.com/ |
+https://www.casimages.com/ |
+https://trueimages.ru/ |
+https://images.gameru.net/ |
+https://photo.rock.ru/ |
+https://yapx.ru/ |
+https://pimpandhost.com/ |
+https://www.zupimages.net/ |
+https://pics.ivbt.ru/ |
+https://cyberpics.net/ |
+https://bayimg.com/ |
+https://imgsrc.ru/ |
+https://picclick.ru/, https://picforall.ru/ |
 
-## Объяснение заголовков в таблице
+### Сервисы доступные только по http
 
-В заголовки сложно уместить подробную информацию о том, какая информация отображается в столбце, поэтому подробная информация о каждом заголовке из сравнительной таблице будет в этом разделе.
+Ниже расположенc список сервисов, которые не работают по SSL, то есть не открываются через https.
 
-Я постарался сформулировать заголовки так, чтобы ответ "да" в столбце означал что-то положительное о сервисе. Вместо простого ответа `Да` или `Нет` конечно удобнее и целесообраздее просталять `+` или `-`.
+- http://vfl.ru/
+- http://saveimg.ru/
+- http://screenlist.ru/
+- http://www.imagetitan.com/
+- http://uploads.im/, http://uploads.ru/
+- http://imageupper.com/
+- http://www.fotolink.su/
+- http://sendpic.org/
+- http://www.mepic.ru/
+- http://www.picshare.ru/
+- http://imglink.ru/
+- http://imageupper.com/
+- http://j-p-g.net/
+- http://picoolio.net/
+- http://imgclick.net/
 
-1. Ссылки - ссылки на сервис. Если ресурс имеет несколько зеркальных доменов, то нужно указать их через запятую `,`. Ссылки на сервисы сокращения ссылок, которые ведут к просмотру картинки, в этом столбце указывать не надо.
-2. Анонимное использование - возможно ли использовать сервис без регистрации в нем.
-3. Мультизагрузка - возможно ли загружать на сервис несколько файлов одновременно. Если сервис предоставляет информацию о количестве максимально одновременно загружаемых файлов - указать цифру.
-4. Из буфера обмена - возможна ли загрузка картинки, скопированной в буфер обмена.
-5. Drag & Drop - возможна ли загрузка перетаскиванием картинки из какой-либо директории компьютера на страницу (или определенную область) сервиса.
-6. По ссылке - возможна ли загрузка картинки указав прямую ссылку на нее.
-7. Из архива - возможна ли загрузка нескольких картинок в виде архива (чтобы сервис сам его распаковал и сделал так, как-будто все картинки из архива загружены по отдельности).
-8. Дллительность хранения файлов (анон/авторизованный) - срок хранения картинки (стандартно в днях) для авторизованных и не авторизованных пользователей через слэш `/`.
-9. Максимальный размер картинки (МБ) - максимальный размер картинки в мегабайтах, который можно хранить на сервисе.
-10. Максимальное разрешение картинки - максимальный размер картинки в пикселях, который можно загрузить на сервис.
-11. Автоматическое изменение разрешения - уменьшает ли сервис картинку автоматически, если она превышает максимально допустимый размер картинки в пикселях (конечно, если есть ограничение на максимальный размер картинки в пикселях).
-12. Наличие английского интерфейса - информация о том, есть ли на сервисе интерфейс на английском языке.
-13. Сокращенная ссылка на картинку - информация о том, возможно ли сгенерировать короткую ссылку на стринцу с просмотром картинки.
-14. Разрешенные форматы картинок - информация о том, картинки с какими расширениями разрешено загружать на сервис. Разделитель - запятая `,`.
-15. Автоматическое конвертирование - информация о том, из какого в какой формат сервис конвертирует картинку при загрузке.
-16. Картинка-предпросмотр - информация о том, может ли генерировать сервис картинку-миниатуру загруженной картинке.
-17. Добавление надписи на предпросмотр - информация о том, можно ли добавлять какой-то текст на генерируемую миниатюру.
-18. Настройка размера предпросмотра - информация о том, можно ли менять размер в пикселях для генерируемой миниатюры.
-19. Коды для встраивания - инфомрация о том, генерирует ли сервис код для встраивания картинки в HTML или другие языки разметки. Обычно эти коды доступны на странице сразу после успешной загрузки картинки или на странице просмотра картинки. Разные сервисы генирируют разные коды (миниатюра с ссылкой на страницу просмотра полной версии или полная версия с ссылкой на домашнюю страницу сервиса и т.д.) этих вариантов не сильно много и по хорошему в этом столбце лучше указывать какие виды кодов встраивания предоставляет сервис, но пока что у меня нет возможности учесть все варианты и будет указано просто наличие того, генерируются ли хоть какие-нибудь коды для встраивания картинки.
-20. Информация о загруженном - информация о том, есть ли на странице просмотра картинке информация о ней. Например имя загруженного файла, дата загрузки, рамер в пискселях, рамер в мегабайтах или килобайтах, количество просмотров, никнейм того, кто загрузил и т.д. 
-21. Просмотр всех фотографий сервиса - информация о том, возможно ли на сервисе просмотреть все фотографии, которые загружены на сервис.
-22. Поиск - информация о том, есть ли на сервисе поиск по фотографиям (обычно это поиск исключительно по названиям загруженных картинок).
-23. Просмотр тематик - информация о том, есть ли на сервисе какие-либо рубрики на которые разграничиваются картинки и можно ли посмотреть все картинки в какой-либо отдельной рубрике.
-24. Просмотр фото других аккантов - информация о том, можно ли перейти в чей-то профиль на сервисе и просмотреть фотографии этого профиля (конечно при условии, что на сервисе есть регистрация).
-25. Комментирование - информация о том, можно ли оставить комментарий на странице с просмотром картинки на сервисе.
-26. Лайки - информация о том, можно ли лайкнуть картинку на странице с просмотром картинки на сервисе.
-27. Описание картинки - информация о том, можно ли добавить какой-либо текст (описание) к загруженной картинке (обычно добавленный текст отображается на странице с просмотром картинки на сервисе).
-28. Удаление файлов - информация о том, можно ли удалять загруженные картинки с сервиса.
-29. Редактирование файлов - информация о том, можно ли редактировать загруженную картинку и данные, добавленные с ее загрузкой (название картинки, описание к ней и т.д.).
-30. Создание альбомов - информация о том, возможно ли объединять несколько картинок в один альбом (и, желательно, делиться ссылкой на этот альбом).
-31. API - информация о том, предоставляет ли сервис какое либо API.
-32. Материалы для взрослых - информация о том, разрешено ли (и, соответственно, присутствуют ли) на сервисе картинки порнографического характера.
-33. Дополнительная информация - информация об особенностях сервиса, не подпадающих ни под какой-либо из выше перечисленных критериев.
+### Облачные диски в том числе для фото
 
-Сервисы:
+Ниже расположен список сервисов, которые в основном предоставляют услуги облачных хранилищ, но также можно получать прямые ссылки на картинки загруженные в аккаунт на облачном диске
 
-- https://pasteall.org/pic/
-- https://www.imagebam.com/
-- https://photobucket.com/
-- https://imageshack.com/
-- https://hostingkartinok.com/
-- https://simplest-image-hosting.net/
-- https://freeimagehosting.net/
-- https://www.fotki.com/us/en/
-- https://www.turboimagehost.com/
-- https://img-host.ru/
-- https://itrash.ru/
-- https://pixabay.com/
-- https://500px.com/
-- https://www.imagevenue.com/
-- https://pasteboard.co/
-- https://pastenow.ru/
-- https://cubeupload.com/
-- https://linkpicture.com/en/
-- https://beeimg.com/
-- https://oshi.at/
-- https://kek.gg/
-- https://www.imagecoast.com/
-- https://imgdew.com/
-- https://imguh.com/
-- https://imgrock.net/
-- https://www.tryimg.com/
-- https://www.imageno.com/
-- https://www.picallow.com/
-- https://thumbsnap.com/
-- https://imgpile.com/
-- https://imagesharing.com/
-- https://www.hostpic.org/
-- https://vgy.me/
-- https://gifyu.com/
-- https://www.imageupload.net/
-- https://jpegbay.com/
-- https://bbcode0.com/
-- https://qpic.ws/
-- https://kepkuldes.com/
-- https://lookimg.com/
-- https://www.imageupload.net/
-- https://gifok.net/
-- https://www.cweb-pix.com/
-- https://im.ge/
-- https://webhotpix.com/
-- https://photouploads.com/
-- https://tinypix.top/
-- https://nickpic.host/
-- https://imagem.app/
-- https://picuza.com/
-- https://imgbb.su/
-- https://www.imgup.cz/
-- https://freeimage.host/
-- https://tinyimg.io/
-- https://geekpic.net/
-- https://imagecurl.com/
-- https://im.ge/
-- https://boring.host/
-- https://img.onl/
-- https://putstuffonline.com/
-- https://folio.ink/
-- https://www.uploadhouse.com/
-- https://www.imgspice.com/
-- https://www.yogile.com/
-- https://imgi.wall-spot.com/
-- https://picr.de/
-- https://imagebin.ca/
-- https://www.image123.net/
-- https://pixady.com/
-- https://unsee.cc/
-- https://www.hebergeur-image.com/
-- https://imgup.ru/
-- https://pikky.net/
-- https://i.mcgl.ru/
-- https://www.hizliresim.com/
-- https://abload.de/
-- https://gif-pictures.ru/
-- https://gif-animated.ru/
-- https://ipic.su/
-- https://imageup.ru/
-- https://bbpic.ru/
-- https://pic.maxiol.com/
-- https://picbit.net/
-- https://uploaddeimagens.com.br/
-- https://imgtaxi.com/
-- https://imgaa.com/
-- https://www.noelshack.com/
-- https://svgur.com/
-- https://pixhost.to/
-- https://imageflea.com/
-- https://www.casimages.com/
-- https://trueimages.ru/
-- https://images.gameru.net/
-- https://photo.rock.ru/
--
-- ???
-- https://imghut.com/
-- https://www.stockunlimited.com/
-- https://giantguys.com/
-- https://imgsli.com/
-- https://yapx.ru/
-- https://pictureshack.ru/
-- http://www.jpeghost.ru/
-- http://eximage.ru/
-- https://picclick.ru/
-- https://picforall.ru/
-- https://picturestack.com/
-- https://imgsrc.ru/
-- https://www.picofile.com/
-- https://servimg.com/
-- https://www.anonmgur.com/
--
-- Эти недоступны из РФ:
-- https://bayimg.com/
-- https://cyberpics.net/
-- https://imageupload.io/
-- https://www.imagetwist.com/
-- https://pics.ivbt.ru/
-- https://imagetwist.com/
-- https://www.zupimages.net/
-- https://pimpandhost.com/
-- https://8upload.com/
--
 - https://www.amazon.co.uk/b?ie=UTF8&node=12153286031
 - https://www.dropbox.com/
 - https://www.google.com/photos/about/
@@ -229,13 +191,13 @@ https://imgbox.com/ | + | + | + | + | - | - | Unlimited | 10 | Unlimited? | -? |
 - https://www.a2hosting.com/image-hosting
 - https://www.sandcage.com/
 - https://photos.arcaneoffice.com/
--
+- https://disk.yandex.ru/
 - https://www.4shared.com/
-- https://dragndropz.com/
-- https://www.img.vision/
-- https://gifer.com/
--
-- Это в основном для публикаций фотографий:.
+
+### Сервисы для фотографий
+
+Ниже расположен список сервисов, которые ориентированы на работу не с любыми картинками, а, в основном с фотографиями.
+
 - https://www.pinterest.ru/
 - https://www.deviantart.com/
 - https://www.flickr.com/
@@ -253,34 +215,55 @@ https://imgbox.com/ | + | + | + | + | - | - | Unlimited | 10 | Unlimited? | -? |
 - https://www.vecteezy.com/
 - https://www.dreamstime.com/
 - https://focastock.com/
--
-- Это сайты которые не открываются по https
-- http://vfl.ru/
-- http://saveimg.ru/
-- http://screenlist.ru/
-- http://www.imagetitan.com/
-- http://uploads.im/ | http://uploads.ru/
-- http://imageupper.com/
-- http://www.fotolink.su/
-- http://sendpic.org/
-- http://www.mepic.ru/
-- http://www.picshare.ru/
-- http://imglink.ru/
-- http://imageupper.com/
-- http://j-p-g.net/
-- http://picoolio.net/
-- http://imgclick.net/
--
-- Приложения для создания скриншотов + сервисы для их публикации:
+
+### Сервисы для анимированных картинок
+
+Ниже расположен список сервисов, которые ориентированы на сохранение и распространение анимированных картинок, таких как GIF и другие.
+
+- https://gifer.com/
+- https://tenor.com/
+- https://giphy.com/
+- https://gfycat.com/
+
+### Сервисы доступные не во всех странах
+
+В этом разделе расположены сервисы, которые открываются не из всех стран. Лучше не использовать эти сервисы, поэтому сравнительной таблицы для них не будет.
+
+- https://imageupload.io/
+- https://imagetwist.com/
+- https://8upload.com/
+
+### Приложения для создания скриншотов
+
+Ниже расположен список сервисов, которые вместе с приложениями для создания скриншотов также предоставляют сервис хранения/публикации скриншотов и получения прямых ссылок на них.
+
 - https://monosnap.com/
 - https://app.prntscr.com/
 - https://joxi.ru/
 - https://disk.yandex.kz/promo/download
 - https://help.dropbox.com/installs-integrations/photos/screenshots
--
-- Альтернативные сервисы
+
+### Альтернативные сервисы
+
+Ниже расположен список сервисов, которые не позицианируют себя как хостинг картинок, но в этих сервисах можно загружать, харинть и получать прямые ссылки на картинки.
+
 - https://vk.com/
 - https://www.reddit.com/
+- https://github.com/
+- https://imgsli.com/
+- https://discord.com/
+- https://www.instagram.com/
+- https://zen.yandex.ru/
+- https://www.tumblr.com/
+
+### CDN для картинок
+
+Ниже расположен список сервисов, которые позицианируют себя как CDN только для картинок и предоставляют соответствующие услуги.
+
+- https://www.img.vision/
+- https://imgix.com/
+- https://imageboss.me/
+
 ## Объяснение заголовков в таблице
 
 В заголовки сложно уместить подробную информацию о том, какая информация отображается в столбце, поэтому подробная информация о каждом заголовке из сравнительной таблице будет в этом разделе.
@@ -403,6 +386,13 @@ https://wmpics.pics/
 https://www.wylio.com/
 http://camarama.de/
 https://bigfoto.com/
+https://picturestack.com/
+https://www.anonmgur.com/
+https://servimg.com/
+http://www.jpeghost.ru/
+http://eximage.ru/
+https://pictureshack.ru/
+https://dragndropz.com/
 
 ## Отдельное спасибо
 
