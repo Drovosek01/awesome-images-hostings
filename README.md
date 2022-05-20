@@ -4,24 +4,27 @@ Language: [Русский](README_RU.md) | English
 
 ## Content
 
-- What kind of repository is this
-- What is image hosting
-- FAQ
-- Lists of services and comparison tables
-  - Main image hosting
-  - Services available only via http
-  - Cloud drives, including for photos
-  - Photo services
-  - Services for animated images
-  - Services not available in all countries
-  - Screenshot applications
-  - Alternative services
-  - CDN services for images
-- Explanation of the headings in the table
-- Rules for adding services to the list
-- Dead services
-- TODO
-- Special thanks
+- [List of image hosting](#list-of-image-hosting)
+  - [Content](#content)
+  - [What kind of repository is this](#what-kind-of-repository-is-this)
+  - [What is image hosting?](#what-is-image-hosting)
+  - [FAQ](#faq)
+  - [Image Hosting vs Photo Hosting](#image-hosting-vs-photo-hosting)
+  - [Service lists and comparison tables](#service-lists-and-comparison-tables)
+    - [Main image hosting](#main-image-hosting)
+    - [Services available only via http](#services-available-only-via-http)
+    - [Cloud drives, including for photos](#cloud-drives-including-for-photos)
+    - [Photo services](#photo-services)
+    - [Services for animated images](#services-for-animated-images)
+    - [Services not available in all countries](#services-not-available-in-all-countries)
+    - [Applications for creating screenshots](#applications-for-creating-screenshots)
+    - [Alternative services](#alternative-services)
+    - [CDN services for images](#cdn-services-for-images)
+  - [Explanation of the headers in the table](#explanation-of-the-headers-in-the-table)
+  - [Rules for adding services to the list](#rules-for-adding-services-to-the-list)
+  - [Dead services](#dead-services)
+  - [TODO](#todo)
+  - [Special thanks](#special-thanks)
 
 ## What kind of repository is this
 
@@ -33,7 +36,7 @@ You can read more about the concept of "Awesome" lists [here](https://github.com
 
 ---
 
-### What is image hosting?
+## What is image hosting?
 
 Image hosting is a service that provides an opportunity to upload and store images, a link to which you can then share.
 
@@ -219,7 +222,7 @@ Below is a list of services that mainly provide cloud storage services, but you 
 - https://disk.yandex.ru/
 - https://www.4shared.com/
 
-### Photo Services
+### Photo services
 
 Below is a list of services that are focused on working not with any pictures, but mainly with photos.
 
