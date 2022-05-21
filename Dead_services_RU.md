@@ -77,3 +77,7 @@ http://www.jpeghost.ru/
 http://eximage.ru/
 https://pictureshack.ru/
 https://dragndropz.com/
+https://hostingpics.net/
+https://picbite.com/
+https://min.us/
+https://www.imagebanana.com/
