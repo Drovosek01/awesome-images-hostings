@@ -75,7 +75,7 @@ https://geekflare.com/best-image-hosting/
 
 Ссылки | Анонимное использование | Мультизагрузка | Из буфера обмена | Drag & Drop | По ссылке | Из архива | Длительность хранения файлов (анон/авториз.) | Максимальный размер картинки (МБ) (анон/авториз.) | Максимальное разрешение картинки (px) | Автоматическое изменение разрешения | Наличие английского интерфейса | Сокращенная ссылка на страницу с картинкой | Разрешенные форматы картинок | Автоматическое конвертирование | Картинка-предпросмотр | Добавление надписи на предпросмотр | Настройка размера предпросмотра | Коды для встраивания | Информация о загруженном | Просмотр всех фотографий сервиса | Поиск | Просмотр тематик | Просмотр фото других аккаунтов | Комментирование | Лайки | Описание картинки | Удаление файлов | Редактирование файлов | Создание альбомов | API | Материалы для взрослых | Дополнительная информация
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-http://imgur.com/ | + | + | + | + | + | - | Unlimited? | 20/5 | Unlimited? | + | + | + | JPEG, PNG, GIF, APNG, TIFF, GIF and video | PNG->JPG* | + | - | - | + | + | + | + | + |  | + | + | + | + | + | -? | + | - | [imgur](Additional_info_RU.md#imgur) | 
+https://imgur.com/ | + | + | + | + | + | - | Unlimited? | 20/5 | Unlimited? | + | + | + | JPEG, PNG, GIF, APNG, TIFF, GIF and video | PNG->JPG* | + | - | - | + | + | + | + | + |  | + | + | + | + | + | -? | + | - | [imgur](Additional_info_RU.md#imgur) | 
 https://imageban.ru/ | + | + | + | + | + | + | 365 | 10 | Unlimited? | - | + | + | JPG, JPEG, PNG, GIF, WEBP, BMP | ? | + | + | + | + | + | - | - | + | - | - | - | + | + | + | + | + | ? | [imageban](Additional_info_RU.md#imageban) | 
 https://fastpic.ru/, https://fastpic.org/, https://new.fastpic.org/ | + | + | + | + | + | - | Unlimited? | 25 | Unlimited? | - | ? | - | JPG, PNG, GIF, WEBP, BMP | ? | + | + | + | + | - | - | - | - | - | - | - | - | + | - | -? | - | ? | [fastpic](Additional_info_RU.md#fastpic) |
 https://imgbb.com/ | + | + | + | + | + | - | Unlimited? | 32 | ? | ? | + | + | JPG, PNG, BMP, GIF, TIFF, WEBP, HEIC, PDF | ? | + | - | - | + | - | - | - | - | - | - | + | + | + | + | + | + | - | [imgbb](Additional_info_RU.md#imgbb) | 
@@ -204,6 +204,7 @@ https://picclick.ru/, https://picforall.ru/ |
 - http://j-p-g.net/
 - http://picoolio.net/
 - http://imgclick.net/
+- [http://youpicture.org/](http://youpicture.org/?l=en)
 
 ### Облачные диски в том числе для фото
 
@@ -295,6 +296,7 @@ https://picclick.ru/, https://picforall.ru/ |
 - https://www.img.vision/
 - https://imgix.com/
 - https://imageboss.me/
+- https://cloudinary.com/
 
 ## Объяснение заголовков в таблице
 

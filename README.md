@@ -75,7 +75,7 @@ I divided some services into different groups, although it was possible to make 
 
 Links | Anonymous using | Multiuploading | From clipboard | Drag & Drop | Remote uploading | From the archive | Duration of file store (anon/authorization) | Maximum image size (MB) (anon/authorization) | Maximum image resolution (px) | Automatic resolution change | English interface | Abbreviated link to the page with the picture | Allowed image formats | Automatic convertation | Preview image | Adding an inscription to the preview | Setting the preview size | Embed codes | Information about uploaded | Viewing all photos service | Search | Viewing topics | Viewing photos of other accounts | Commenting | Likes | Picture description | Deleting files | Editing files | Creating albums | API | Adult materials | Additional information
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-http://imgur.com/ | + | + | + | + | + | - | Unlimited? | 20/5 | Unlimited? | + | + | + | JPEG, PNG, GIF, APNG, TIFF, GIF and video | PNG->JPG* | + | - | - | + | + | + | + | + |  | + | + | + | + | + | -? | + | - | [imgur](Additional_info_EN.md#imgur) | 
+https://imgur.com/ | + | + | + | + | + | - | Unlimited? | 20/5 | Unlimited? | + | + | + | JPEG, PNG, GIF, APNG, TIFF, GIF and video | PNG->JPG* | + | - | - | + | + | + | + | + |  | + | + | + | + | + | -? | + | - | [imgur](Additional_info_EN.md#imgur) | 
 [https://imageban.ru/](https://imageban.ru/?lang=EN) | + | + | + | + | + | + | 365 | 10 | Unlimited? | - | + | + | JPG, JPEG, PNG, GIF, WEBP, BMP | ? | + | + | + | + | + | - | - | + | - | - | - | + | + | + | + | + | ? | [imageban](Additional_info_EN.md#imageban) | 
 https://fastpic.ru/, https://fastpic.org/, https://new.fastpic.org/ | + | + | + | + | + | - | Unlimited? | 25 | Unlimited? | - | ? | - | JPG, PNG, GIF, WEBP, BMP | ? | + | + | + | + | - | - | - | - | - | - | - | - | + | - | -? | - | ? | [fastpic](Additional_info_EN.md#fastpic) |
 https://imgbb.com/ | + | + | + | + | + | - | Unlimited? | 32 | ? | ? | + | + | JPG, PNG, BMP, GIF, TIFF, WEBP, HEIC, PDF | ? | + | - | - | + | - | - | - | - | - | - | + | + | + | + | + | + | - | [imgbb](Additional_info_EN.md#imgbb) | 
@@ -204,6 +204,7 @@ Below is a list of services that do not work over SSL, that is, they do not open
 - http://j-p-g.net/
 - http://picoolio.net/
 - http://imgclick.net/
+- [http://youpicture.org/](http://youpicture.org/?l=en)
 
 ### Cloud drives, including for photos
 
@@ -295,6 +296,7 @@ Below is a list of services that position themselves as a CDN for images only an
 - https://www.img.vision/
 - https://imgix.com/
 - https://imageboss.me/
+- https://cloudinary.com/
 
 ## Explanation of the headers in the table
 
