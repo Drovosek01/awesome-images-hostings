@@ -185,16 +185,13 @@ https://picclick.ru/, https://picforall.ru/ |
 - http://www.imagetitan.com/
 - http://uploads.im/, http://uploads.ru/
 - http://imageupper.com/
-- http://www.fotolink.su/
 - http://sendpic.org/
-- http://www.mepic.ru/
 - http://www.picshare.ru/
 - http://imglink.ru/
 - http://imageupper.com/
 - http://j-p-g.net/
 - http://picoolio.net/
 - http://imgclick.net/
-- [http://youpicture.org/](http://youpicture.org/?l=en)
 
 ### Облачные диски в том числе для фото
 
