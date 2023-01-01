@@ -81,7 +81,6 @@ https://fastpic.ru/, https://fastpic.org/, https://new.fastpic.org/ | + | + | + 
 https://imgbb.com/ | + | + | + | + | + | - | Unlimited? | 32 | ? | ? | + | + | JPG, PNG, BMP, GIF, TIFF, WEBP, HEIC, PDF | ? | + | - | - | + | - | - | - | - | - | - | + | + | + | + | + | + | - | [imgbb](Additional_info_RU.md#imgbb) | 
 https://postimages.org/ | + | + | + | + | + | - | Unlimited? | 24 | 1280 |  | + | + | PNG, JPG and ? | + | + | - | - | + | + | + | - | - | - | - | - | - | + | - | + | - | -? | [postimages](Additional_info_RU.md#postimages) | 
 https://imgbox.com/ | + | + | + | + | - | - | Unlimited | 10 | Unlimited? | -? | + | - | JPG, PNG, GIF | - | + | - | + | + | - | - | - | - | - | + | - | - | + | - | + | - | + | [imgbox](Additional_info_RU.md#imgbox) |
-https://pasteall.org/pic/ |
 https://www.imagebam.com/ |
 https://photobucket.com/ |
 https://imageshack.com/ |
@@ -92,7 +91,6 @@ https://www.fotki.com/us/en/ |
 https://www.turboimagehost.com/ |
 https://img-host.ru/ |
 https://itrash.ru/ |
-https://pixabay.com/ |
 https://500px.com/ |
 https://www.imagevenue.com/ |
 https://pasteboard.co/ |
@@ -118,12 +116,10 @@ https://vgy.me/ |
 https://gifyu.com/ |
 https://www.imageupload.net/ |
 https://jpegbay.com/ |
-https://bbcode0.com/ |
 https://qpic.ws/ |
 https://kepkuldes.com/ |
 https://lookimg.com/ |
 https://www.imageupload.net/ |
-https://gifok.net/ |
 https://www.cweb-pix.com/ |
 https://im.ge/ |
 https://webhotpix.com/ |
@@ -133,15 +129,12 @@ https://nickpic.host/ |
 https://imagem.app/ |
 https://picuza.com/ |
 https://imgbb.su/ |
-https://www.imgup.cz/ |
 https://freeimage.host/ |
-https://tinyimg.io/ |
 https://geekpic.net/ |
 https://imagecurl.com/ |
 https://im.ge/ |
 https://boring.host/ |
 https://img.onl/ |
-https://putstuffonline.com/ |
 https://folio.ink/ |
 https://www.uploadhouse.com/ |
 https://www.imgspice.com/ |
@@ -149,11 +142,9 @@ https://www.yogile.com/ |
 https://imgi.wall-spot.com/ |
 https://picr.de/ |
 https://imagebin.ca/ |
-https://www.image123.net/ |
 https://pixady.com/ |
 https://unsee.cc/ |
 https://www.hebergeur-image.com/ |
-https://imgup.ru/ |
 https://pikky.net/ |
 https://i.mcgl.ru/ |
 https://www.hizliresim.com/ |
@@ -171,7 +162,6 @@ https://imgaa.com/ |
 https://www.noelshack.com/ |
 https://svgur.com/ |
 https://pixhost.to/ |
-https://imageflea.com/ |
 https://www.casimages.com/ |
 https://trueimages.ru/ |
 https://images.gameru.net/ |
@@ -261,6 +251,7 @@ https://picclick.ru/, https://picforall.ru/ |
 - https://imageupload.io/
 - https://imagetwist.com/
 - https://8upload.com/
+- https://pixabay.com/
 
 ### Приложения для создания скриншотов
 

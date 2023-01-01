@@ -17,6 +17,7 @@ Link | Date of "death"
 https://radikal.ru/ | 10 April 2022
 https://funkyimg.com/ | [17 June 2021](https://www.notion.so/FunkyIMG-is-DOWN-c5d5047d15384598b0db4f05953a9633)
 https://imgur.ru/
+https://pasteall.org/pic/
 http://puush.me/
 http://piccy.info/
 https://tinypic.com/
@@ -81,3 +82,12 @@ https://hostingpics.net/
 https://picbite.com/
 https://min.us/
 https://www.imagebanana.com/
+https://bbcode0.com/
+https://gifok.net/
+https://imgup.ru/
+https://www.imgup.cz/
+https://tinyimg.io/
+https://www.image123.net/
+http://www.fotolink.su/
+http://www.mepic.ru/
+http://youpicture.org/
