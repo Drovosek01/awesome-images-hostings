@@ -174,6 +174,8 @@ https://cyberpics.net/ |
 https://bayimg.com/ |
 https://imgsrc.ru/ |
 https://picclick.ru/, https://picforall.ru/ |
+https://iv.pl/ |
+https://www.imagenetz.de/ |
 
 ### Сервисы доступные только по http
 
@@ -249,6 +251,7 @@ https://picclick.ru/, https://picforall.ru/ |
 - https://imagetwist.com/
 - https://8upload.com/
 - https://pixabay.com/
+- https://anopic.us/
 
 ### Приложения для создания скриншотов
 
@@ -257,8 +260,10 @@ https://picclick.ru/, https://picforall.ru/ |
 - https://monosnap.com/
 - https://app.prntscr.com/
 - https://joxi.ru/
-- https://disk.yandex.kz/promo/download
+- https://disk.yandex.ru/promo/download
 - https://help.dropbox.com/installs-integrations/photos/screenshots
+- https://droplr.com/
+- https://shottr.cc/
 
 ### Альтернативные сервисы
 

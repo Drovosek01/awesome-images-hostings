@@ -174,6 +174,9 @@ https://cyberpics.net/ |
 https://bayimg.com/ |
 https://imgsrc.ru/ |
 https://picclick.ru/, https://picforall.ru/ |
+https://iv.pl/ |
+https://www.imagenetz.de/ |
+
 
 ### Services available only via http
 
@@ -249,6 +252,7 @@ This section contains services that are not opened from all countries. It is bet
 - https://imagetwist.com/
 - https://8upload.com/
 - https://pixabay.com/
+- https://anopic.us/
 
 ### Applications for creating screenshots
 
@@ -257,8 +261,10 @@ Below is a list of services that, along with screenshot creation applications, a
 - https://monosnap.com/
 - https://app.prntscr.com/
 - https://joxi.ru/
-- https://disk.yandex.kz/promo/download
+- https://disk.yandex.ru/promo/download
 - https://help.dropbox.com/installs-integrations/photos/screenshots
+- https://droplr.com/
+- https://shottr.cc/
 
 ### Alternative services
 
