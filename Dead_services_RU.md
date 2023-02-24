@@ -91,3 +91,5 @@ https://www.image123.net/
 http://www.fotolink.su/
 http://www.mepic.ru/
 http://youpicture.org/
+http://picua.org/
+http://4put.ru/

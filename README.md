@@ -176,7 +176,15 @@ https://imgsrc.ru/ |
 https://picclick.ru/, https://picforall.ru/ |
 https://iv.pl/ |
 https://www.imagenetz.de/ |
-
+https://www.0zz0.com/ |
+https://wampi.ru/ |
+https://lostpix.com/ |
+https://sm.ms/, https://smms.app/ |
+https://snipboard.io/ |
+https://upanh.org/ |
+https://www.uploadhouse.com/ |
+https://uploadpie.com/ |
+https://media.cackle.me/welcome |
 
 ### Services available only via http
 
@@ -249,7 +257,7 @@ Below is a list of services that focus on saving and distributing animated image
 This section contains services that are not opened from all countries. It is better not to use these services, so there will be no comparison table for them.
 
 - https://imageupload.io/
-- https://imagetwist.com/
+- https://imagetwist.com/, https://imagehaha.com/
 - https://8upload.com/
 - https://pixabay.com/
 - https://anopic.us/
@@ -265,6 +273,7 @@ Below is a list of services that, along with screenshot creation applications, a
 - https://help.dropbox.com/installs-integrations/photos/screenshots
 - https://droplr.com/
 - https://shottr.cc/
+- https://gyazo.com/
 
 ### Alternative services
 
@@ -291,6 +300,7 @@ Below is a list of services that position themselves as a CDN for images only an
 - https://imgix.com/
 - https://imageboss.me/
 - https://cloudinary.com/
+- https://uploadcare.com/
 
 ## Explanation of the headers in the table
 

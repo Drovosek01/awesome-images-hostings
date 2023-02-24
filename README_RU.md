@@ -176,6 +176,15 @@ https://imgsrc.ru/ |
 https://picclick.ru/, https://picforall.ru/ |
 https://iv.pl/ |
 https://www.imagenetz.de/ |
+https://www.0zz0.com/ |
+https://wampi.ru/ |
+https://lostpix.com/ |
+https://sm.ms/, https://smms.app/ |
+https://snipboard.io/ |
+https://upanh.org/ |
+https://www.uploadhouse.com/ |
+https://uploadpie.com/ |
+https://media.cackle.me/welcome |
 
 ### Сервисы доступные только по http
 
@@ -248,7 +257,7 @@ https://www.imagenetz.de/ |
 В этом разделе расположены сервисы, которые открываются не из всех стран. Лучше не использовать эти сервисы, поэтому сравнительной таблицы для них не будет.
 
 - https://imageupload.io/
-- https://imagetwist.com/
+- https://imagetwist.com/, https://imagehaha.com/
 - https://8upload.com/
 - https://pixabay.com/
 - https://anopic.us/
@@ -264,6 +273,7 @@ https://www.imagenetz.de/ |
 - https://help.dropbox.com/installs-integrations/photos/screenshots
 - https://droplr.com/
 - https://shottr.cc/
+- https://gyazo.com/
 
 ### Альтернативные сервисы
 
@@ -290,6 +300,7 @@ https://www.imagenetz.de/ |
 - https://imgix.com/
 - https://imageboss.me/
 - https://cloudinary.com/
+- https://uploadcare.com/
 
 ## Объяснение заголовков в таблице
 
