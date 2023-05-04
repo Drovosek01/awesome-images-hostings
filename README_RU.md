@@ -101,6 +101,8 @@ https://beeimg.com/ |
 https://oshi.at/ |
 https://kek.gg/ |
 https://www.imagecoast.com/ |
+https://ltdfoto.ru/ |
+https://itmages.su/ |
 https://imgdew.com/ |
 https://imguh.com/ |
 https://imghut.com/ |

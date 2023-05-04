@@ -10,7 +10,7 @@ Language: [Русский](README_RU.md) | English
   - [What is image hosting?](#what-is-image-hosting)
   - [FAQ](#faq)
   - [Image Hosting vs Photo Hosting](#image-hosting-vs-photo-hosting)
-  - [Service lists and comparison tables](#service-lists-and-comparison-tables)
+  - [Lists services and comparison tables](#lists-services-and-comparison-tables)
     - [Main image hosting](#main-image-hosting)
     - [Services available only via http](#services-available-only-via-http)
     - [Cloud drives, including for photos](#cloud-drives-including-for-photos)
@@ -63,7 +63,7 @@ Answers to predictable questions.
 
 https://geekflare.com/best-image-hosting/
 
-## Service lists and comparison tables
+## Lists services and comparison tables
 
 Below are all the services known to me, to which you can upload pictures and share them. I have tried to add only the most important comparison criteria to the headings of the comparison tables. If the service has some rare feature, then the information about it will most likely be in the "Additional information" column.
 
@@ -101,6 +101,8 @@ https://beeimg.com/ |
 https://oshi.at/ |
 https://kek.gg/ |
 https://www.imagecoast.com/ |
+https://ltdfoto.ru/ |
+https://itmages.su/ |
 https://imgdew.com/ |
 https://imguh.com/ |
 https://imghut.com/ |
