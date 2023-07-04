@@ -187,6 +187,12 @@ https://upanh.org/ |
 https://www.uploadhouse.com/ |
 https://uploadpie.com/ |
 https://media.cackle.me/welcome |
+https://imgtr.ee/ |
+https://pixhost.icu/ |
+https://foto.sp-shopogoliki.ru/ |
+https://pichost.net/ |
+https://freeimghost.net/ |
+https://anh.moe/ |
 
 ### Сервисы доступные только по http
 
