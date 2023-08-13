@@ -193,6 +193,7 @@ https://foto.sp-shopogoliki.ru/ |
 https://pichost.net/ |
 https://freeimghost.net/ |
 https://anh.moe/ |
+https://yourimageshare.com/ |
 
 ### Services available only via http
 
