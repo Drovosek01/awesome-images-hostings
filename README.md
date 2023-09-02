@@ -194,6 +194,7 @@ https://pichost.net/ |
 https://freeimghost.net/ |
 https://anh.moe/ |
 https://yourimageshare.com/ |
+https://imgtp.com/ |
 
 ### Services available only via http
 
