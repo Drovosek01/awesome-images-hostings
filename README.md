@@ -160,7 +160,9 @@ https://pic.maxiol.com/ |
 https://picbit.net/ |
 https://uploaddeimagens.com.br/ |
 https://imgtaxi.com/ |
-https://imgaa.com/ |
+https://imgaa.com/, https://image.hosting/ |
+https://jpg3.su/, https://jpg4.su/ |
+https://pic.in.th/ |
 https://www.noelshack.com/ |
 https://svgur.com/ |
 https://pixhost.to/ |
@@ -195,6 +197,8 @@ https://freeimghost.net/ |
 https://anh.moe/ |
 https://yourimageshare.com/ |
 https://imgtp.com/ |
+https://umpic.ru/ |
+https://imagehostx.com/ |
 
 ### Services available only via http
 
