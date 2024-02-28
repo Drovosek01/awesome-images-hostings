@@ -136,7 +136,7 @@ https://pichost.net/ |
 https://freeimghost.net/ |
 https://anh.moe/ |
 https://freeimage.host/ |
-https://geekpic.net/ |
+https://geekpic.net/, https://pic4net.com/ |
 https://boring.host/ |
 https://img.onl/ |
 https://folio.ink/ |
