@@ -94,3 +94,8 @@ http://youpicture.org/
 http://picua.org/
 http://4put.ru/
 http://keepimg.com/
+https://imagebin.ca/
+https://imagecurl.com/
+https://www.cweb-pix.com/
+https://imgbb.su/
+https://picuza.com/

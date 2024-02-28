@@ -122,7 +122,6 @@ https://qpic.ws/ |
 https://kepkuldes.com/ |
 https://lookimg.com/ |
 https://www.imageupload.net/ |
-https://www.cweb-pix.com/ |
 https://webhotpix.com/ |
 https://photouploads.com/ |
 https://tinypix.top/ |
@@ -136,11 +135,8 @@ https://foto.sp-shopogoliki.ru/ |
 https://pichost.net/ |
 https://freeimghost.net/ |
 https://anh.moe/ |
-https://picuza.com/ |
-https://imgbb.su/ |
 https://freeimage.host/ |
 https://geekpic.net/ |
-https://imagecurl.com/ |
 https://boring.host/ |
 https://img.onl/ |
 https://folio.ink/ |
@@ -149,7 +145,6 @@ https://www.imgspice.com/ |
 https://www.yogile.com/ |
 https://imgi.wall-spot.com/ |
 https://picr.de/ |
-https://imagebin.ca/ |
 https://pixady.com/ |
 https://unsee.cc/ |
 https://www.hebergeur-image.com/ |
