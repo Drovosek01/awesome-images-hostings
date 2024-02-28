@@ -123,7 +123,6 @@ https://kepkuldes.com/ |
 https://lookimg.com/ |
 https://www.imageupload.net/ |
 https://www.cweb-pix.com/ |
-https://im.ge/ |
 https://webhotpix.com/ |
 https://photouploads.com/ |
 https://tinypix.top/ |
@@ -142,7 +141,6 @@ https://imgbb.su/ |
 https://freeimage.host/ |
 https://geekpic.net/ |
 https://imagecurl.com/ |
-https://im.ge/ |
 https://boring.host/ |
 https://img.onl/ |
 https://folio.ink/ |
@@ -166,7 +164,6 @@ https://bbpic.ru/ |
 https://pic.maxiol.com/ |
 https://picbit.net/ |
 https://uploaddeimagens.com.br/ |
-https://imgtaxi.com/ |
 https://imgaa.com/, https://image.hosting/ |
 https://jpg3.su/, https://jpg4.su/ |
 https://pic.in.th/ |
@@ -275,6 +272,8 @@ https://imagehostx.com/ |
 - https://8upload.com/
 - https://pixabay.com/
 - https://anopic.us/
+- https://imgtaxi.com/
+- https://im.ge/
 
 ### Приложения для создания скриншотов
 
