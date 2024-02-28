@@ -17,7 +17,7 @@ Language: [Русский](README_RU.md) | English
     - [Photo services](#photo-services)
     - [Services for animated images](#services-for-animated-images)
     - [Services not available in all countries](#services-not-available-in-all-countries)
-    - [Applications for creating screenshots](#applications-for-creating-screenshots)
+    - [Applications for creating screenshots (clippers)](#applications-for-creating-screenshots-clippers)
     - [Alternative services](#alternative-services)
     - [CDN services for images](#cdn-services-for-images)
   - [Explanation of the headers in the table](#explanation-of-the-headers-in-the-table)
@@ -270,7 +270,7 @@ This section contains services that are not opened from all countries. It is bet
 - https://imgtaxi.com/
 - https://im.ge/
 
-### Applications for creating screenshots
+### Applications for creating screenshots (clippers)
 
 Below is a list of services that, along with screenshot creation applications, also provide a service for storing/publishing screenshots and getting direct links to them.
 
@@ -282,6 +282,8 @@ Below is a list of services that, along with screenshot creation applications, a
 - https://droplr.com/
 - https://shottr.cc/
 - https://gyazo.com/
+- https://screenpic.net/
+- https://prnt.sc/
 
 ### Alternative services
 
