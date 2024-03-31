@@ -191,6 +191,7 @@ https://yourimageshare.com/ |
 https://imgtp.com/ |
 https://umpic.ru/ |
 https://imagehostx.com/ |
+https://www.kepfeltoltes.eu/ |
 
 ### Services available only via http
 
