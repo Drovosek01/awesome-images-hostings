@@ -160,6 +160,7 @@ https://pic.maxiol.com/ |
 https://picbit.net/ |
 https://uploaddeimagens.com.br/ |
 https://imgaa.com/, https://image.hosting/ |
+https://imgkub.com/ |
 https://jpg3.su/, https://jpg4.su/ |
 https://pic.in.th/ |
 https://www.noelshack.com/ |
@@ -192,6 +193,7 @@ https://imgtp.com/ |
 https://umpic.ru/ |
 https://imagehostx.com/ |
 https://www.kepfeltoltes.eu/ |
+https://ctrl.vi/ |
 
 ### Services available only via http
 
