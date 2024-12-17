@@ -172,6 +172,7 @@ https://umpic.ru/ |
 https://imagehostx.com/ |
 https://www.kepfeltoltes.eu/ |
 https://ctrl.vi/ |
+https://imgdd.com/ |
 
 ### Сервисы доступные только по http
 
