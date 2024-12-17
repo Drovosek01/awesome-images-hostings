@@ -85,27 +85,20 @@ https://www.imagebam.com/ |
 https://photobucket.com/ |
 https://imageshack.com/ |
 https://hostingkartinok.com/ |
-https://simplest-image-hosting.net/ |
 https://freeimagehosting.net/ |
 https://www.fotki.com/us/en/ |
 https://www.turboimagehost.com/ |
-https://img-host.ru/ |
-https://itrash.ru/ |
 https://500px.com/ |
 https://www.imagevenue.com/ |
 https://pasteboard.co/ |
-https://pastenow.ru/ |
+https://pastenow.ru/, https://paste.pics/, https://ru.paste.pics/ |
 https://cubeupload.com/ |
-https://linkpicture.com/en/ |
 https://beeimg.com/ |
 https://oshi.at/ |
-https://kek.gg/ |
 https://www.imagecoast.com/ |
 https://ltdfoto.ru/ |
-https://itmages.su/ |
 https://imgdew.com/ |
 https://imguh.com/ |
-https://imghut.com/ |
 https://imgrock.net/ |
 https://www.tryimg.com/ |
 https://www.imageno.com/ |
@@ -116,20 +109,15 @@ https://imagesharing.com/ |
 https://www.hostpic.org/ |
 https://vgy.me/ |
 https://gifyu.com/ |
-https://www.imageupload.net/ |
 https://jpegbay.com/ |
 https://qpic.ws/ |
 https://kepkuldes.com/ |
 https://lookimg.com/ |
-https://www.imageupload.net/ |
 https://webhotpix.com/ |
 https://photouploads.com/ |
-https://tinypix.top/ |
-https://nickpic.host/ |
 https://imagem.app/ |
 https://ipic.su/ |
 https://upanh.org/ |
-https://imgtr.ee/ |
 https://pixhost.icu/ |
 https://foto.sp-shopogoliki.ru/ |
 https://pichost.net/ |
@@ -138,7 +126,6 @@ https://anh.moe/ |
 https://freeimage.host/ |
 https://geekpic.net/, https://pic4net.com/ |
 https://boring.host/ |
-https://img.onl/ |
 https://folio.ink/ |
 https://www.uploadhouse.com/ |
 https://www.imgspice.com/ |
@@ -151,25 +138,17 @@ https://www.hebergeur-image.com/ |
 https://pikky.net/ |
 https://i.mcgl.ru/ |
 https://www.hizliresim.com/ |
-https://abload.de/ |
-https://gif-pictures.ru/ |
-https://gif-animated.ru/ |
 https://imageup.ru/ |
-https://bbpic.ru/ |
 https://pic.maxiol.com/ |
 https://picbit.net/ |
-https://uploaddeimagens.com.br/ |
-https://imgaa.com/, https://image.hosting/ |
+https://image.hosting/ |
 https://imgkub.com/ |
-https://jpg3.su/, https://jpg4.su/ |
+https://jpg3.su/, https://jpg4.su/, https://jpg5.su/ |
 https://pic.in.th/ |
 https://www.noelshack.com/ |
-https://svgur.com/ |
 https://pixhost.to/ |
 https://www.casimages.com/ |
 https://trueimages.ru/ |
-https://images.gameru.net/ |
-https://photo.rock.ru/ |
 https://yapx.ru/ |
 https://pimpandhost.com/ |
 https://www.zupimages.net/ |
@@ -189,7 +168,6 @@ https://www.uploadhouse.com/ |
 https://uploadpie.com/ |
 https://media.cackle.me/welcome |
 https://yourimageshare.com/ |
-https://imgtp.com/ |
 https://umpic.ru/ |
 https://imagehostx.com/ |
 https://www.kepfeltoltes.eu/ |
@@ -201,12 +179,9 @@ https://ctrl.vi/ |
 
 - http://vfl.ru/
 - http://saveimg.ru/
-- http://screenlist.ru/
 - http://www.imagetitan.com/
 - http://uploads.im/, http://uploads.ru/
 - http://imageupper.com/
-- http://sendpic.org/
-- http://www.picshare.ru/
 - http://imglink.ru/
 - http://imageupper.com/
 - http://j-p-g.net/
@@ -259,7 +234,6 @@ https://ctrl.vi/ |
 - https://gifer.com/
 - https://tenor.com/
 - https://giphy.com/
-- https://gfycat.com/
 
 ### Сервисы доступные не во всех странах
 
