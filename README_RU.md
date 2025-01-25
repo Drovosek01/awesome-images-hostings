@@ -173,6 +173,7 @@ https://imagehostx.com/ |
 https://www.kepfeltoltes.eu/ |
 https://ctrl.vi/ |
 https://imgdd.com/ |
+https://imgdrop.io/ |
 
 ### Сервисы доступные только по http
 
