@@ -174,6 +174,9 @@ https://www.kepfeltoltes.eu/ |
 https://ctrl.vi/ |
 https://imgdd.com/ |
 https://imgdrop.io/ |
+https://uupload.ir/ |
+https://iimg.su/ |
+https://getapic.me/ |
 
 ### Сервисы доступные только по http
 
