@@ -177,6 +177,7 @@ https://imgdrop.io/ |
 https://uupload.ir/ |
 https://iimg.su/ |
 https://getapic.me/ |
+https://radikal.cloud/ |
 
 ### Сервисы доступные только по http
 
