@@ -91,17 +91,12 @@ https://www.turboimagehost.com/ |
 https://500px.com/ |
 https://www.imagevenue.com/ |
 https://pasteboard.co/ |
-https://pastenow.ru/, https://paste.pics/, https://ru.paste.pics/ |
 https://cubeupload.com/ |
 https://beeimg.com/ |
-https://oshi.at/ |
 https://www.imagecoast.com/ |
 https://ltdfoto.ru/ |
-https://imgdew.com/ |
 https://imguh.com/ |
-https://imgrock.net/ |
 https://www.tryimg.com/ |
-https://www.imageno.com/ |
 https://www.picallow.com/ |
 https://thumbsnap.com/ |
 https://imgpile.com/ |
@@ -116,21 +111,15 @@ https://lookimg.com/ |
 https://webhotpix.com/ |
 https://photouploads.com/ |
 https://imagem.app/ |
-https://ipic.su/ |
-https://upanh.org/ |
 https://pixhost.icu/ |
 https://foto.sp-shopogoliki.ru/ |
-https://pichost.net/ |
-https://freeimghost.net/ |
 https://anh.moe/ |
 https://freeimage.host/ |
 https://geekpic.net/, https://pic4net.com/ |
 https://boring.host/ |
 https://folio.ink/ |
-https://www.uploadhouse.com/ |
 https://www.imgspice.com/ |
 https://www.yogile.com/ |
-https://imgi.wall-spot.com/ |
 https://picr.de/ |
 https://pixady.com/ |
 https://unsee.cc/ |
@@ -140,7 +129,6 @@ https://i.mcgl.ru/ |
 https://www.hizliresim.com/ |
 https://imageup.ru/ |
 https://pic.maxiol.com/ |
-https://picbit.net/ |
 https://image.hosting/ |
 https://imgkub.com/ |
 https://jpg3.su/, https://jpg4.su/, https://jpg5.su/ |
@@ -160,7 +148,6 @@ https://picclick.ru/, https://picforall.ru/ |
 https://iv.pl/ |
 https://www.imagenetz.de/ |
 https://www.0zz0.com/ |
-https://wampi.ru/ |
 https://lostpix.com/ |
 https://sm.ms/, https://smms.app/ |
 https://snipboard.io/ |
@@ -173,7 +160,6 @@ https://imagehostx.com/ |
 https://www.kepfeltoltes.eu/ |
 https://ctrl.vi/ |
 https://imgdd.com/ |
-https://imgdrop.io/ |
 https://uupload.ir/ |
 https://iimg.su/ |
 https://getapic.me/ |

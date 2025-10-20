@@ -125,3 +125,17 @@ http://screenlist.ru/
 http://sendpic.org/
 http://www.picshare.ru/
 https://gfycat.com/
+https://pastenow.ru/, https://paste.pics/, https://ru.paste.pics/
+https://www.imageno.com/
+https://oshi.at/
+https://imgdew.com/
+https://imgrock.net/
+https://ipic.su/
+https://upanh.org/
+https://pichost.net/
+https://freeimghost.net/
+https://www.uploadhouse.com/
+https://imgi.wall-spot.com/
+https://picbit.net/
+https://wampi.ru/
+https://imgdrop.io/
