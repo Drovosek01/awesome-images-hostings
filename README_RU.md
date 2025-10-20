@@ -178,6 +178,7 @@ https://uupload.ir/ |
 https://iimg.su/ |
 https://getapic.me/ |
 https://radikal.cloud/ |
+https://bashify.io/ |
 
 ### Сервисы доступные только по http
 
