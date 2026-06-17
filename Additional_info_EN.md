@@ -48,3 +48,8 @@ You can also find out more information about the service if you visit the offici
 - You can also get a preview link by replacing `images2` with `thumbs2` and `_t` with `_o`
   - For exapmle here original https://images2.imgbox.com/45/98/GjnpItqF_o.png and thumbnail https://thumbs2.imgbox.com/45/98/GjnpItqF_t.png
 - The preview can only be square
+## Mini-Tools.uk
+
+Mini-Tools.uk Upload is a small free image hosting and image-to-link page for quick sharing. It lets a user upload an image and copy a direct image URL, Markdown image link, HTML image tag, or BBCode snippet.
+
+The page supports PNG, JPEG, GIF, and WEBP images up to 5 MB. Anonymous temporary uploads can be kept for 1 day, 7 days, or 30 days; long-term storage requires an approved storage code. This makes it useful for GitHub README images, Markdown documentation, issue comments, forum posts, support tickets, product screenshots, and other cases where someone needs to upload an image and get a shareable URL.
