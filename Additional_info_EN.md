@@ -48,7 +48,7 @@ You can also find out more information about the service if you visit the offici
 - You can also get a preview link by replacing `images2` with `thumbs2` and `_t` with `_o`
   - For exapmle here original https://images2.imgbox.com/45/98/GjnpItqF_o.png and thumbnail https://thumbs2.imgbox.com/45/98/GjnpItqF_t.png
 - The preview can only be square
-## Mini-Tools.uk
+### Mini-Tools.uk
 
 Mini-Tools.uk Upload is a small free image hosting and image-to-link page for quick sharing. It lets a user upload an image and copy a direct image URL, Markdown image link, HTML image tag, or BBCode snippet.
 
