@@ -48,3 +48,10 @@ You can also find out more information about the service if you visit the offici
 - You can also get a preview link by replacing `images2` with `thumbs2` and `_t` with `_o`
   - For exapmle here original https://images2.imgbox.com/45/98/GjnpItqF_o.png and thumbnail https://thumbs2.imgbox.com/45/98/GjnpItqF_t.png
 - The preview can only be square
+
+### pixelvault
+
+Agent-first image hosting on Cloudflare's edge. REST API + OpenAPI 3.1 + a remote MCP server (mcp.pixelvault.dev) for AI agents. Anonymous playground (no account, 2 MB, 1h). API-key auth for full features.
+
+- [Docs](https://pixelvault.dev/docs)
+- [API](https://api.pixelvault.dev/openapi.json)
