@@ -82,6 +82,7 @@ https://imgbb.com/ | + | + | + | + | + | - | Unlimited? | 32 | ? | ? | + | + | J
 https://pixelvault.dev/ | + | - | - | ? | - | - | 1 hour / hybrid | 2 / 5 | ? | - | + | - | JPG, PNG, GIF, WEBP, AVIF, SVG | ? | ? | - | - | - | + | - | - | - | - | - | - | - | + | - | + | + | - | [PixelVault](Additional_info_EN.md#pixelvault) | 
 https://postimages.org/ | + | + | + | + | + | - | Unlimited? | 24 | 1280 |  | + | + | PNG, JPG and ? | + | + | - | - | + | + | + | - | - | - | - | - | - | + | - | + | - | -? | [postimages](Additional_info_EN.md#postimages) | 
 https://imgbox.com/ | + | + | + | + | - | - | Unlimited | 10 | Unlimited? | -? | + | - | JPG, PNG, GIF | - | + | - | + | + | - | - | - | - | - | + | - | - | + | - | + | - | + | [imgbox](Additional_info_EN.md#imgbox) |
+https://mini-tools.uk/upload | + | - | - | - | - | - | 1, 7, 30 / permanent with approved code | 5 | ? | - | + | - | PNG, JPEG, GIF, WEBP | - | + | - | - | + | - | - | - | - | - | - | - | - | ? | - | - | - | - | [mini-tools](Additional_info_EN.md#mini-toolsuk) |
 https://www.imagebam.com/ |
 https://photobucket.com/ |
 https://imageshack.com/ |
