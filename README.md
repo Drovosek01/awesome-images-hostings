@@ -173,6 +173,11 @@ https://pixabay.com/ |
 https://anopic.us/ |
 https://imgtaxi.com/ |
 https://im.ge/ |
+https://imglink.cc/ |
+https://allwebs.ru/ |
+https://2i.cz/ |
+https://picabox.ru/ |
+https://screenshare.ru/ |
 
 ### Services available only via http
 
@@ -251,6 +256,7 @@ Below is a list of services that, along with screenshot creation applications, a
 - https://gyazo.com/
 - https://screenpic.net/
 - https://prnt.sc/
+- https://klikr.org/
 
 ### Alternative services
 

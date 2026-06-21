@@ -173,6 +173,11 @@ https://pixabay.com/ |
 https://anopic.us/ |
 https://imgtaxi.com/ |
 https://im.ge/ |
+https://imglink.cc/ |
+https://allwebs.ru/ |
+https://2i.cz/ |
+https://picabox.ru/ |
+https://screenshare.ru/ |
 
 ### Сервисы доступные только по http
 
@@ -251,6 +256,7 @@ https://im.ge/ |
 - https://gyazo.com/
 - https://screenpic.net/
 - https://prnt.sc/
+- https://klikr.org/
 
 ### Альтернативные сервисы
 
