@@ -79,8 +79,10 @@ https://imgur.com/ | + | + | + | + | + | - | Unlimited? | 20/5 | Unlimited? | + 
 https://imageban.ru/ | + | + | + | + | + | + | 365 | 10 | Unlimited? | - | + | + | JPG, JPEG, PNG, GIF, WEBP, BMP | ? | + | + | + | + | + | - | - | + | - | - | - | + | + | + | + | + | ? | [imageban](Additional_info_RU.md#imageban) | 
 https://fastpic.ru/, https://fastpic.org/, https://new.fastpic.org/ | + | + | + | + | + | - | Unlimited? | 25 | Unlimited? | - | ? | - | JPG, PNG, GIF, WEBP, BMP | ? | + | + | + | + | - | - | - | - | - | - | - | - | + | - | -? | - | ? | [fastpic](Additional_info_RU.md#fastpic) |
 https://imgbb.com/ | + | + | + | + | + | - | Unlimited? | 32 | ? | ? | + | + | JPG, PNG, BMP, GIF, TIFF, WEBP, HEIC, PDF | ? | + | - | - | + | - | - | - | - | - | - | + | + | + | + | + | + | - | [imgbb](Additional_info_RU.md#imgbb) | 
+https://pixelvault.dev/ | + | - | - | ? | - | - | 1 hour / hybrid | 2 / 5 | ? | - | + | - | JPG, PNG, GIF, WEBP, AVIF, SVG | ? | ? | - | - | - | + | - | - | - | - | - | - | - | + | - | + | + | - | [PixelVault](Additional_info_EN.md#pixelvault) | 
 https://postimages.org/ | + | + | + | + | + | - | Unlimited? | 24 | 1280 |  | + | + | PNG, JPG and ? | + | + | - | - | + | + | + | - | - | - | - | - | - | + | - | + | - | -? | [postimages](Additional_info_RU.md#postimages) | 
 https://imgbox.com/ | + | + | + | + | - | - | Unlimited | 10 | Unlimited? | -? | + | - | JPG, PNG, GIF | - | + | - | + | + | - | - | - | - | - | + | - | - | + | - | + | - | + | [imgbox](Additional_info_RU.md#imgbox) |
+https://mini-tools.uk/upload | + | - | - | - | - | - | 1, 7, 30 / permanent with approved code | 5 | ? | - | + | - | PNG, JPEG, GIF, WEBP | - | + | - | - | + | - | - | - | - | - | - | - | - | ? | - | - | - | - | [mini-tools](Additional_info_EN.md#mini-toolsuk) | 
 https://www.imagebam.com/ |
 https://photobucket.com/ |
 https://imageshack.com/ |
