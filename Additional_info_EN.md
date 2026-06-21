@@ -20,6 +20,9 @@ You can also find out more information about the service if you visit the offici
 - Links to the preview can be found by clicking on the picture in the account
 - Links to the preview can be made by adding these characters in the direct link before the extension `s`/`b`/`t`/`m`/`l`/`h`
   - For example here original https://i.imgur.com/AoQ28wt.jpeg and thumbnails https://i.imgur.com/AoQ28wts.jpeg, https://i.imgur.com/AoQ28wtb.jpeg, https://i.imgur.com/AoQ28wtt.jpeg, https://i.imgur.com/AoQ28wtm.jpeg, https://i.imgur.com/AoQ28wtl.jpeg, https://i.imgur.com/AoQ28wth.jpeg
+- Effective September 30, 2025 - Not available in the UK
+  - [News on the official website](https://help.imgur.com/hc/en-us/articles/41592665292443-Imgur-access-in-the-United-Kingdom)
+  - [News on a third-party resource](https://www.bleepingcomputer.com/news/technology/imgur-blocks-uk-users-after-data-watchdog-signals-possible-fine/)
 
 ### imageban
 

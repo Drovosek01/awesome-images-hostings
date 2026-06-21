@@ -16,7 +16,6 @@ Language: [Русский](README_RU.md) | English
     - [Cloud drives, including for photos](#cloud-drives-including-for-photos)
     - [Photo services](#photo-services)
     - [Services for animated images](#services-for-animated-images)
-    - [Services not available in all countries](#services-not-available-in-all-countries)
     - [Applications for creating screenshots (clippers)](#applications-for-creating-screenshots-clippers)
     - [Alternative services](#alternative-services)
     - [CDN services for images](#cdn-services-for-images)
@@ -73,16 +72,17 @@ I divided some services into different groups, although it was possible to make 
 
 ### Main image hosting
 
-Links | Anonymous using | Multiuploading | From clipboard | Drag & Drop | Remote uploading | From the archive | Duration of file store (anon/authorization) | Maximum image size (MB) (anon/authorization) | Maximum image resolution (px) | Automatic resolution change | English interface | Abbreviated link to the page with the picture | Allowed image formats | Automatic convertation | Preview image | Adding an inscription to the preview | Setting the preview size | Embed codes | Information about uploaded | Viewing all photos service | Search | Viewing topics | Viewing photos of other accounts | Commenting | Likes | Picture description | Deleting files | Editing files | Creating albums | API | Adult materials | Additional information
+Links | Anonymous using | Multiuploading | From clipboard | Drag & Drop | Remote uploading | From the archive | Duration of file store (anon/authorization) | Maximum image size (MB) (anon/authorization) | Maximum image resolution (px) | Automatic resolution change | English interface | Abbreviated link to the page with the picture | Allowed image formats | Automatic convertation | Preview image | Adding an inscription to the preview | Setting the preview size | Embed codes | Information about uploaded | Viewing all photos service | Search | Viewing topics | Viewing photos of other accounts | Commenting | Likes | Picture description | Deleting files | Editing files | Creating albums | API | Adult materials | Not available in regions | Additional information
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-https://imgur.com/ | + | + | + | + | + | - | Unlimited? | 20/5 | Unlimited? | + | + | + | JPEG, PNG, GIF, APNG, TIFF, GIF and video | PNG->JPG* | + | - | - | + | + | + | + | + |  | + | + | + | + | + | -? | + | - | [imgur](Additional_info_EN.md#imgur) | 
-[https://imageban.ru/](https://imageban.ru/?lang=EN) | + | + | + | + | + | + | 365 | 10 | Unlimited? | - | + | + | JPG, JPEG, PNG, GIF, WEBP, BMP | ? | + | + | + | + | + | - | - | + | - | - | - | + | + | + | + | + | ? | [imageban](Additional_info_EN.md#imageban) | 
-https://fastpic.ru/, https://fastpic.org/, https://new.fastpic.org/ | + | + | + | + | + | - | Unlimited? | 25 | Unlimited? | - | ? | - | JPG, PNG, GIF, WEBP, BMP | ? | + | + | + | + | - | - | - | - | - | - | - | - | + | - | -? | - | ? | [fastpic](Additional_info_EN.md#fastpic) |
-https://imgbb.com/ | + | + | + | + | + | - | Unlimited? | 32 | ? | ? | + | + | JPG, PNG, BMP, GIF, TIFF, WEBP, HEIC, PDF | ? | + | - | - | + | - | - | - | - | - | - | + | + | + | + | + | + | - | [imgbb](Additional_info_EN.md#imgbb) | 
-https://pixelvault.dev/ | + | - | - | ? | - | - | 1 hour / hybrid | 2 / 5 | ? | - | + | - | JPG, PNG, GIF, WEBP, AVIF, SVG | ? | ? | - | - | - | + | - | - | - | - | - | - | - | + | - | + | + | - | [PixelVault](Additional_info_EN.md#pixelvault) | 
-https://postimages.org/ | + | + | + | + | + | - | Unlimited? | 24 | 1280 |  | + | + | PNG, JPG and ? | + | + | - | - | + | + | + | - | - | - | - | - | - | + | - | + | - | -? | [postimages](Additional_info_EN.md#postimages) | 
-https://imgbox.com/ | + | + | + | + | - | - | Unlimited | 10 | Unlimited? | -? | + | - | JPG, PNG, GIF | - | + | - | + | + | - | - | - | - | - | + | - | - | + | - | + | - | + | [imgbox](Additional_info_EN.md#imgbox) |
-https://mini-tools.uk/upload | + | - | - | - | - | - | 1, 7, 30 / permanent with approved code | 5 | ? | - | + | - | PNG, JPEG, GIF, WEBP | - | + | - | - | + | - | - | - | - | - | - | - | - | ? | - | - | - | - | [mini-tools](Additional_info_EN.md#mini-toolsuk) | 
+https://imgur.com/ | + | + | + | + | + | - | Unlimited? | 20/5 | Unlimited? | + | + | + | JPEG, PNG, GIF, APNG, TIFF, GIF and video | PNG->JPG* | + | - | - | + | + | + | + | + |  | + | + | + | + | + | -? | + | - | [Not work in the United Kingdom](https://help.imgur.com/hc/en-us/articles/41592665292443-Imgur-access-in-the-United-Kingdom) | [imgur](Additional_info_RU.md#imgur) | 
+https://imageban.ru/ | + | + | + | + | + | + | 365 | 10 | Unlimited? | - | + | + | JPG, JPEG, PNG, GIF, WEBP, BMP | ? | + | + | + | + | + | - | - | + | - | - | - | + | + | + | + | + | ? | - | [imageban](Additional_info_RU.md#imageban) | 
+https://fastpic.ru/, https://fastpic.org/, https://new.fastpic.org/ | + | + | + | + | + | - | Unlimited? | 25 | Unlimited? | - | ? | - | JPG, PNG, GIF, WEBP, BMP | ? | + | + | + | + | - | - | - | - | - | - | - | - | + | - | -? | - | ? | - | [fastpic](Additional_info_RU.md#fastpic) |
+https://imgbb.com/ | + | + | + | + | + | - | Unlimited? | 32 | ? | ? | + | + | JPG, PNG, BMP, GIF, TIFF, WEBP, HEIC, PDF | ? | + | - | - | + | - | - | - | - | - | - | + | + | + | + | + | + | - | - | [imgbb](Additional_info_RU.md#imgbb) | 
+https://pixelvault.dev/ | + | - | - | ? | - | - | 1 hour / hybrid | 2 / 5 | ? | - | + | - | JPG, PNG, GIF, WEBP, AVIF, SVG | ? | ? | - | - | - | + | - | - | - | - | - | - | - | + | - | + | + | - | - | [PixelVault](Additional_info_RU.md#pixelvault) | 
+https://postimages.org/ | + | + | + | + | + | - | Unlimited? | 24 | 1280 |  | + | + | PNG, JPG and ? | + | + | - | - | + | + | + | - | - | - | - | - | - | + | - | + | - | -? | [postimages](Additional_info_RU.md#postimages) | 
+https://imgbox.com/ | + | + | + | + | - | - | Unlimited | 10 | Unlimited? | -? | + | - | JPG, PNG, GIF | - | + | - | + | + | - | - | - | - | - | + | - | - | + | - | + | - | + | - | [imgbox](Additional_info_RU.md#imgbox) |
+https://mini-tools.uk/upload | + | - | - | - | - | - | 1, 7, 30 / permanent with approved code | 5 | ? | - | + | - | PNG, JPEG, GIF, WEBP | - | + | - | - | + | - | - | - | - | - | - | - | - | ? | - | - | - | - | - | [mini-tools](Additional_info_RU.md#mini-toolsuk) | 
+https://imageupload.io/ |
 https://www.imagebam.com/ |
 https://photobucket.com/ |
 https://imageshack.com/ |
@@ -131,7 +131,6 @@ https://i.mcgl.ru/ |
 https://www.hizliresim.com/ |
 https://imageup.ru/ |
 https://pic.maxiol.com/ |
-https://picbit.net/ |
 https://image.hosting/ |
 https://imgkub.com/ |
 https://jpg3.su/, https://jpg4.su/, https://jpg5.su/ |
@@ -168,6 +167,12 @@ https://iimg.su/ |
 https://getapic.me/ |
 https://radikal.cloud/ |
 https://bashify.io/ |
+https://imagetwist.com/, https://imagehaha.com/ |
+https://8upload.com/ |
+https://pixabay.com/ |
+https://anopic.us/ |
+https://imgtaxi.com/ |
+https://im.ge/ |
 
 ### Services available only via http
 
@@ -231,17 +236,6 @@ Below is a list of services that focus on saving and distributing animated image
 - https://tenor.com/
 - https://giphy.com/
 
-### Services not available in all countries
-
-This section contains services that are not opened from all countries. It is better not to use these services, so there will be no comparison table for them.
-
-- https://imageupload.io/
-- https://imagetwist.com/, https://imagehaha.com/
-- https://8upload.com/
-- https://pixabay.com/
-- https://anopic.us/
-- https://imgtaxi.com/
-- https://im.ge/
 
 ### Applications for creating screenshots (clippers)
 

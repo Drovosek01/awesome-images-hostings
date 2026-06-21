@@ -20,6 +20,9 @@
 - Ссылки на предпросмотр можно найти нажав на картинку в аккаунте
 - Ссылки на предпросмотр можно сделать добавив эти символы в прямой ссылке перед расширением `s`/`b`/`t`/`m`/`l`/`h`
   - Например вот оригинал https://i.imgur.com/AoQ28wt.jpeg и вот картинки-предпросмотры https://i.imgur.com/AoQ28wts.jpeg, https://i.imgur.com/AoQ28wtb.jpeg, https://i.imgur.com/AoQ28wtt.jpeg, https://i.imgur.com/AoQ28wtm.jpeg, https://i.imgur.com/AoQ28wtl.jpeg, https://i.imgur.com/AoQ28wth.jpeg
+- Начиная с 30 сентября 2025 - не работает в Великобритании
+  - [Новость на официальном сайте](https://help.imgur.com/hc/en-us/articles/41592665292443-Imgur-access-in-the-United-Kingdom)
+  - [Новость на стороннем ресурсе](https://www.bleepingcomputer.com/news/technology/imgur-blocks-uk-users-after-data-watchdog-signals-possible-fine/)
 
 ### imageban
 
