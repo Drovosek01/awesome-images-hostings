@@ -64,3 +64,12 @@ Agent-first image hosting on Cloudflare's edge. REST API + OpenAPI 3.1 + a remot
 Mini-Tools.uk Upload is a small free image hosting and image-to-link page for quick sharing. It lets a user upload an image and copy a direct image URL, Markdown image link, HTML image tag, or BBCode snippet.
 
 The page supports PNG, JPEG, GIF, and WEBP images up to 5 MB. Anonymous temporary uploads can be kept for 1 day, 7 days, or 30 days; long-term storage requires an approved storage code. This makes it useful for GitHub README images, Markdown documentation, issue comments, forum posts, support tickets, product screenshots, and other cases where someone needs to upload an image and get a shareable URL.
+
+### PictureToLink
+
+PictureToLink is a free image host for quick sharing. No account is needed. After upload you get a direct image link, a share page and ready-made HTML, BBCode and Markdown codes.
+
+Every upload is re-encoded, which removes EXIF metadata such as GPS location and camera details. Each upload has a private delete link. Images can be set to delete themselves after 1 hour, 1, 7 or 30 days; otherwise they are kept while they are viewed and removed after 12 months without views. Up to 20 files (25 MB each, JPG, PNG, WEBP, GIF or AVIF) can be uploaded at once by picking, dragging or pasting them. Uploads are screened, and adult content is not allowed. Share pages have no ads; the site is funded by ads on its own content pages.
+
+- [Site](https://picturetolink.com/)
+- [FAQ](https://picturetolink.com/faq)

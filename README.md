@@ -82,6 +82,7 @@ https://pixelvault.dev/ | + | - | - | ? | - | - | 1 hour / hybrid | 2 / 5 | ? | 
 https://postimages.org/ | + | + | + | + | + | - | Unlimited? | 24 | 1280 |  | + | + | PNG, JPG and ? | + | + | - | - | + | + | + | - | - | - | - | - | - | + | - | + | - | -? | [postimages](Additional_info_RU.md#postimages) | 
 https://imgbox.com/ | + | + | + | + | - | - | Unlimited | 10 | Unlimited? | -? | + | - | JPG, PNG, GIF | - | + | - | + | + | - | - | - | - | - | + | - | - | + | - | + | - | + | - | [imgbox](Additional_info_RU.md#imgbox) |
 https://mini-tools.uk/upload | + | - | - | - | - | - | 1, 7, 30 / permanent with approved code | 5 | ? | - | + | - | PNG, JPEG, GIF, WEBP | - | + | - | - | + | - | - | - | - | - | - | - | - | ? | - | - | - | - | - | [mini-tools](Additional_info_RU.md#mini-toolsuk) | 
+https://picturetolink.com/ | + | 20 | + | + | - | - | 12 months after the last view, or 1 hour / 1 / 7 / 30 days (chosen at upload) / - | 25 / - | 80 MP input, stored up to 4096 px | + | + | + | JPG, PNG, WEBP, GIF, AVIF | Optional (JPG or WEBP) | + | - | - | + | + | - | - | - | - | - | - | - | + | - | - | - | - |  | [PictureToLink](Additional_info_EN.md#picturetolink) | 
 https://imageupload.io/ |
 https://www.imagebam.com/ |
 https://photobucket.com/ |
